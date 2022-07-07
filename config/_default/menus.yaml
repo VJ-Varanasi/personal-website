@@ -4,25 +4,25 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Home - Update
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: S&P500 Volatility - Update
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Notes - Update
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: Past Projects - Update
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Publications - Delete
     url: '#featured'
     weight: 50
-  - name: Contact
+  - name: Contact - Delete
     url: '#contact'
     weight: 60
-  - name: Landing
+  - name: Landing - Delete
     url: '#landing'
     weight: 15
 
