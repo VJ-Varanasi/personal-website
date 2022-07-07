@@ -6,7 +6,7 @@ title: Varun Varanasi
 superuser: true
 
 # Role/position/tagline
-role: Intensive Physics and Statistics and Data Science
+role: Intensive Physics and Statistics & Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include complex systems, biophysics, and [UPDATE].
+bio: My research interests include complex systems and biophysics.
 
 # Interests to show in About widget
 interests:
@@ -30,6 +30,9 @@ education:
     - course: BA in Statistics and Data Science
       institution: Yale University
       year: 2024 (expected)
+    - course: HS Diploma
+      institution: North Carolina School of Science and Mathematics
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,8 +69,7 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a rising Junior at Yale University studying Physics and Statistics & Data Science. My research interests include complex systems, non-linear dynamics, and biophysics. I am currently working with Prof. Gregory Laughlin (Yale) on modeling S&P500 volatility as a function of populace fear/uncertainity. In the past, I have worked with Prof. Nicholas Christakis (Yale) to estimate risk of infection from COVID-19 and Prof. Michael Dickey (NC State) on developing room temperature liquid metal thin films. Outside of research, I am involved in Yale Jashan Bhangra and enjoy cooking. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
