@@ -10,6 +10,7 @@ weight: 130
 
 title: Contact
 subtitle:
+active: false
 
 content:
   # Automatically link email and phone or display as text?
@@ -25,7 +26,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: varun.varanasi@yale.edu
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
