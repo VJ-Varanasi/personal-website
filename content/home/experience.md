@@ -11,6 +11,7 @@ weight: 40
 
 title: Experience
 subtitle:
+active: false
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
