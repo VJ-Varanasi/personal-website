@@ -1,6 +1,6 @@
 ---
 title: Example Project 2
-summary: An example of using the in-built project page.
+summary: An example 2 of using the in-built project page.
 tags:
   - Physics
 date: '2016-04-27T00:00:00Z'
