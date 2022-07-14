@@ -13,9 +13,9 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: 
     icon_pack: fab
-    name: Follow
+    name: Latex
     url: ""
 url_code: ''
 url_pdf: 'resume.pdf'

@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Compiled Notes
-subtitle: 'What does this do?'
+subtitle: 'A brief summary of things I've learned'
 
 content:
   # Page type to display. E.g. project.
