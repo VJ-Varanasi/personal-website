@@ -1,5 +1,5 @@
 ---
-title: Complex
+title: Complex Analysis
 summary: An example of using the in-built project page.
 tags:
   - Mathematics
@@ -16,9 +16,9 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: ""
 url_code: ''
-url_pdf: ''
+url_pdf: 'resume.pdf'
 url_slides: ''
 url_video: ''
 
