@@ -9,7 +9,6 @@ date: '2022-06-27T00:00:00Z'
 external_link: ''
 
 image: 
-  url: 'uploads/IMG_DCECF9B86E94-1.jpeg'
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
