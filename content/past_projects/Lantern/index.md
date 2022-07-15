@@ -1,5 +1,5 @@
 ---
-title: Correlation based Feature Selection
+title: Correlation-based Feature Selection
 summary: 'Work done as a data science intern at Lantern Pharmaceuticals'
 tags:
 date: '2022-06-27T00:00:00Z'
@@ -34,7 +34,9 @@ url_video: ''
 slides: ""
 ---
 
-The summer after my freshman year at Yale, I worked as a data science intern at [Lantern Pharma](https://www.lanternpharma.com/), a biotech company specializing in applying data science techniques to oncology drug discovery. At Lantern, I worked on the feature selection algorithm in RADR, their proprietary drug discovery pipeline. Specifically, I rewrote their correlation module implementing 3 separate correlation methods (Pearson, Spearman, and Kernel-Based RV) across 10+ python scripts. In addition to my work with the correlation module, I also evaluated CodeOcean, a computational research platform targeted for biotech research, for company use. For more information, contact me at varun.varanasi@yale.edu.
+The summer after my freshman year at Yale, I worked as a data science intern at [Lantern Pharma](https://www.lanternpharma.com/), a biotech company specializing in applying data science techniques to oncology drug discovery. At Lantern, I worked on the feature selection algorithm in RADR, their proprietary drug discovery pipeline. Specifically, I rewrote their correlation module implementing 3 separate correlation methods (Pearson, Spearman, and Kernel-Based RV) across 10+ python scripts. 
+
+For more information, contact me at varun.varanasi@yale.edu.
 
 
 
