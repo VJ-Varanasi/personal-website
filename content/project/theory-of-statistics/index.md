@@ -17,7 +17,7 @@ links:
     icon_pack: fab
     name: Course Notes
     url: 'uploads/STAT 242 Course Notes.pdf'
-   - icon: 
+  - icon: 
     icon_pack: fab
     name: LATEX Review Guide
     url: 'uploads/STAT242_Review_Guide.pdf'
