@@ -17,6 +17,10 @@ links:
     icon_pack: fab
     name: PDF
     url: https://twitter.com/georgecushen
+  - icon: 
+    icon_pack: fab
+    name: LATEX
+    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
