@@ -15,7 +15,7 @@ image:
 links:
   - icon: twitter
     icon_pack: fab
-    name: Latex
+    name: twitter
     url: ""
 url_code: ''
 url_pdf: 'resume.pdf'
