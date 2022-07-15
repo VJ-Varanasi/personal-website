@@ -9,10 +9,10 @@ summary: Forecasting the VIX index based on populace uncertainity as measured by
 projects: []
 
 # Date published
-date: '2020-7-12T00:00:00Z'
+#date: '2020-7-12T00:00:00Z'
 
 # Date updated
-lastmod: '2020-7-12T00:00:00Z'
+#lastmod: '2020-7-12T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
