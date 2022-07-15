@@ -40,4 +40,4 @@ These notes follow Yale's "S&DS242: Theory of Statistics" as taught by Prof. Zho
 
 1. {{% staticref "uploads/STAT 242 Course Notes.pdf" "newtab" %}}Course Notes{{% /staticref %}}: My handwritten course notes from S&DS242 organized by lecture
 
-2. {{% staticref "uploads/STAT242_Review_Guide.pdf" "newtab" %}}LATEX Review Guide{{% /staticref %}}: LATEX review guide covering the important definitions, theorems, and topics from S&DS242. 
+2. {{% staticref "uploads/STAT242_Review_Guide.pdf" "newtab" %}}LATEX Review Guide{{% /staticref %}}: A LATEX review guide covering the important definitions, theorems, and topics from S&DS242. 
