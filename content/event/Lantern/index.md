@@ -1,5 +1,5 @@
 ---
-title: Liquid Metal Thin Films
+title: Correlation Feature Selection
 
 event: Wowchemy Conference
 event_url: https://example.org

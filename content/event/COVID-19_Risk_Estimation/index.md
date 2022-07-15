@@ -1,5 +1,5 @@
 ---
-title: Liquid Metal Thin Films
+title: COVID-19 Risk Estimation
 
 event: Wowchemy Conference
 event_url: https://example.org
