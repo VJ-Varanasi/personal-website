@@ -45,4 +45,5 @@ These notes follow Yale's "MATH310: Complex Analysis" as taught by Prof. Franco 
 | Review Guide      | An overview of important definitions, theorems, and relevant proofs, for MATH310      |
 | Gamelin Complex Analysis  | Handwritten notes from the first 9 chapters of Gamelin's text. Certain sections are occasionally ommited in line with the MATH310 syllabus     |
 | LATEX Review Guide  | **Work in Progress** An LATEX review guide of complex analysis      |
+
 {:.table-striped}
