@@ -42,11 +42,10 @@ authors:
 
 ## Overview
 
+The first milestone of the project was to conduct a preliminary timeseries analysis on the VIX dataset. Our data is scrapped daily from the CBOE website via the [DownloadCSV.py script](https://github.com/VJ-Varanasi/VIX-Metaculus/blob/master/DownloadCSV.py). Our analysis was conducted using the [TimeSeriesPlot.py script](https://github.com/VJ-Varanasi/VIX-Metaculus/blob/master/TimeSeriesPlot.py) in which we looked at visualizing timeseries plots, timeseries decompositions, stationarity tests, seasonality, data interpolation, and Granger Causality. The results of our preliminary analysis can be found at {{% staticref "uploads/VIX Timeseries Analysis.pdf" "newtab" %}}VIX Timeseries Analysis{{% /staticref %}}
+
+More information about the datasets and timeseries analysis can be found at {{% staticref "uploads/Timeseries README.pdf" "newtab" %}}Timeseries README{{% /staticref %}}
 
 
- - Code for plotting
- - Timeseries analysis results
- - Data Scraping
- - Plotting ReadMe
 
-## Code
+
