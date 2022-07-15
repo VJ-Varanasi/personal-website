@@ -38,7 +38,7 @@ url_video: ''
 slides: ""
 ---
 
-These notes follow Yale's "MATH310: Complex Analysis" as taught by Prof. Franco Vargas Pallete in Fall 2021. The course follows Theodore Gamelin's "Complex Analysis", an undergraduate introduction to the field. The course covered roughly the first 9 chapters of Gamelin's text touching on functions of comlpex variables, differntiability of complex functions, complex integration, Cauchy's theorem, series expansions, calculus of residues, and conformal mapping. 
+These notes follow Yale's "MATH310: Complex Analysis" as taught by Prof. Franco Vargas Pallete in Fall 2021. The course follows Theodore Gamelin's "Complex Analysis", an undergraduate introduction to the field. The course covered roughly the first 9 chapters of Gamelin's text touching on functions of comlpex variables, differentiability of complex functions, complex integration, Cauchy's theorem, series expansions, calculus of residues, and conformal mapping. 
 
 1. {{% staticref "uploads/Complex Analysis Review Guide 7-22.pdf" "newtab" %}}Review Guide{{% /staticref %}}: An overview of important definitions, theorems, and relevant proofs, for MATH310 
 
