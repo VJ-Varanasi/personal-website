@@ -1,31 +1,22 @@
 ---
-title: State Infrastructure Bank
-summary: 'Worked with Prof. John Dearborn and the Yale Policy Lab'
+title: A Connecticut State Infrastructure Bank? Opportunities and Lessons
+summary: 'Work done with Prof. John Dearborn and the Yale Policy Lab'
 tags:
-  - Mathematics
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image: 
-  caption: Stereographic Projection
-  focal_point: Smart
+#image: 
+#  caption: Stereographic Projection
+#  focal_point: Smart
 
 links:
   - icon: 
     icon_pack: fab
-    name: Review Guide
-    url: 'uploads/Complex Analysis Review Guide 7-22.pdf'
-  - icon: 
-    icon_pack: fab
-    name: Gamelin Complex Analysis
-    url: 'uploads/Gamelin Complex Analysis 7-22.pdf'
-  - icon: 
-    icon_pack: fab
-    name: LATEX Review Guide
-    url: 'uploads/WIP_note.pdf'
-url_code: ''
+    name: Policy Brief
+    url: 'uploads/Policy Lab - CT State Infrastructure Bank Policy Brief.pdf'
+
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -38,8 +29,16 @@ url_video: ''
 slides: ""
 ---
 
-These notes follow Yale's MATH310: Complex Analysis as taught by Prof. Franco Vargas Pallete in Fall 2021. The course follows *Complex Analysis by Theodore Gamelin*, an undergraduate introduction to the field. The course covered roughly the first 9 chapters of Gamelin's text touching on functions of comlpex variables, differentiability of complex functions, complex integration, Cauchy's theorem, series expansions, calculus of residues, and conformal mapping. 
+As part of the Yale Policy lab, my team and I researched the efficacy of adopting a State Infrastructure Bank (SIB) in Connecticut. State Infrastructure Banks are governmental loan program designed to incentivize infrastructure construction through low-cost financing options. With the goal of advising Connecticut legislature whether to support an in-state SIB, our project focused conducting SIB case studies,identifying potential opportunities and improvements in SIB implementation. The executive summary and the full brief can be found below. 
 
-1. {{% staticref "uploads/Complex Analysis Review Guide 7-22.pdf" "newtab" %}}Review Guide{{% /staticref %}}: An overview of important definitions, theorems, and relevant proofs, for MATH310 
+**Executive Summary**
+- This brief examines the desirability of creating a state infrastructure bank (SIB) in
+Connecticut, which has been the subject of recent legislation and debate
+- First, the brief summarizes major findings from existing research on SIBs.
+- Second, the brief describes how several states offer lessons for Connecticut on the
+potential utility and pitfalls of SIBs.
+- Overall, this research suggests that a state infrastructure bank can help Connecticut. For it
+to be effective, it needs to be properly funded, should conceive of infrastructure broadly
+(including climate and energy), and should be attuned to potential social impacts.
 
-2. {{% staticref "uploads/Gamelin Complex Analysis 7-22.pdf" "newtab" %}}Gamelin Complex Analysis{{% /staticref %}}: Handwritten notes from the first 9 chapters of Gamelin's text. Certain sections are occasionally ommited in line with the MATH310 syllabus 
+{{% staticref "uploads/Policy Lab - CT State Infrastructure Bank Policy Brief.pdf" "newtab" %}}Policy Brief{{% /staticref %}}
