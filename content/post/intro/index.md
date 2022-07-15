@@ -28,10 +28,10 @@ image:
   placement: 2
   preview_only: false
 
- - icon: 
-    icon_pack: fab
-    name: VIX Summary
-    url: 'uploads/VIX Summary.pdf'
+- icon: 
+  icon_pack: fab
+  name: VIX Summary
+  url: 'uploads/VIX Summary.pdf'
 
 authors:
   - admin
