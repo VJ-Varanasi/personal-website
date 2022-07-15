@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Past Work and Projects
+title: Past Projects
 subtitle: "An overview of some of my past work"
 
 content:
