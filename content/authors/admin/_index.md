@@ -14,7 +14,7 @@ organizations:
     url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include complex systems and biophysics.
+bio: ""
 
 # Interests to show in About widget
 interests:

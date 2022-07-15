@@ -10,7 +10,7 @@ main:
   - name: S&P500 Volatility - Update
     url: '#posts'
     weight: 20
-  - name: Notes - Update
+  - name: Compiled Notes - Update
     url: '#projects'
     weight: 30
   - name: Past Projects - Update
