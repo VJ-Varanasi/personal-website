@@ -13,14 +13,14 @@ image:
   focal_point: Smart
 
 links:
-  - icon:
+  - icon: twitter
     icon_pack: fab
-    name: "Griffiths Electrodynamics"
+    name: Follow
     url: https://twitter.com/georgecushen
- - icon:
-    icon_pack: fab
-    name: "LATEX Review Guide"
-    url: https://twitter.com/georgecushen
+# - icon:
+#    icon_pack: fab
+#    name: "LATEX Review Guide"
+#    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
