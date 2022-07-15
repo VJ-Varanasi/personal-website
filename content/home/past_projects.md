@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Past Work and Projects
-subtitle: "A brief summary of some of my past projects"
+subtitle: "An overview of some of my past work"
 
 content:
   # Page type to display. E.g. project.
@@ -37,7 +37,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
