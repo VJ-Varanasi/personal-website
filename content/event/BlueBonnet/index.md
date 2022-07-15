@@ -1,5 +1,5 @@
 ---
-title: Correlating Exchange Traded Funds with Underlying Commodity Futures Contracts
+title: 'Politcal Data Science'
 
 event: Wowchemy Conference
 event_url: https://example.org
