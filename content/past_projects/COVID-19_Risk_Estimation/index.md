@@ -33,6 +33,6 @@ slides: ""
 
 
 
-I joined Prof. Nicholas Christakis' Human Nature Lab in 2020 during my freshman year at Yale. At the Human Nature Lab, I worked as part of the HuNaLa team, an app designed to predicted risk of COVID-19 infection based on your personal information and close contacts. My role on the team was to design a COVID-19 risk metric. 
+I joined Prof. Nicholas Christakis' Human Nature Lab in 2020 during my freshman year at Yale. At the Human Nature Lab, I worked as part of the HunaLa team, an app designed to predicted risk of COVID-19 infection based on your personal information and close contacts. My role on the team was to design a COVID-19 risk metric. 
 
-For my project, I built a regression model of COVID-19 deaths in the United States as a function of 10+ public health predictors. Using these metrics, I then designed a risk factor giving an individual's relative risk of infection based on identifying factors. Unfortunately, before the project could be finished, it was cut short due to insufficient and poor data quality. 
+For my project, I built a regression model of COVID-19 deaths in the United States as a function of 10+ public health predictors. Using these metrics, I then designed a risk factor giving an individual's relative risk of infection based on identifying factors. Unfortunately, before the project could be finished, it was cut short due to poor data quality. 
