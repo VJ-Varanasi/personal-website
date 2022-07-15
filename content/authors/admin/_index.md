@@ -6,7 +6,7 @@ title: Varun Varanasi
 superuser: true
 
 # Role/position/tagline
-role: Intensive Physics and Statistics & Data Science
+role: Physics (Intensive) and Statistics & Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
