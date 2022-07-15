@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: 'Predicting the Volatility of the S&P500'
 subtitle:
 
 content:
