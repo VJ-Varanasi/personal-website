@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: twitter
-    url: ""
+    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: 'resume.pdf'
 url_slides: ''
