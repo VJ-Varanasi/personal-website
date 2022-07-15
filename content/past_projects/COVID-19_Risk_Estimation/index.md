@@ -8,23 +8,16 @@ date: '2022-06-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image: 
-  caption: Stereographic Projection
-  focal_point: Smart
+#image: 
+#  caption: Stereographic Projection
+#  focal_point: Smart
 
 links:
-  - icon: 
-    icon_pack: fab
-    name: Review Guide
-    url: 'uploads/Complex Analysis Review Guide 7-22.pdf'
-  - icon: 
-    icon_pack: fab
-    name: Gamelin Complex Analysis
-    url: 'uploads/Gamelin Complex Analysis 7-22.pdf'
-  - icon: 
-    icon_pack: fab
-    name: LATEX Review Guide
-    url: 'uploads/WIP_note.pdf'
+  #- icon: 
+  #  icon_pack: fab
+  #  name: Review Guide
+  #  url: 'uploads/Complex Analysis Review Guide 7-22.pdf'
+ 
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -38,8 +31,8 @@ url_video: ''
 slides: ""
 ---
 
-These notes follow Yale's MATH310: Complex Analysis as taught by Prof. Franco Vargas Pallete in Fall 2021. The course follows *Complex Analysis by Theodore Gamelin*, an undergraduate introduction to the field. The course covered roughly the first 9 chapters of Gamelin's text touching on functions of comlpex variables, differentiability of complex functions, complex integration, Cauchy's theorem, series expansions, calculus of residues, and conformal mapping. 
 
-1. {{% staticref "uploads/Complex Analysis Review Guide 7-22.pdf" "newtab" %}}Review Guide{{% /staticref %}}: An overview of important definitions, theorems, and relevant proofs, for MATH310 
 
-2. {{% staticref "uploads/Gamelin Complex Analysis 7-22.pdf" "newtab" %}}Gamelin Complex Analysis{{% /staticref %}}: Handwritten notes from the first 9 chapters of Gamelin's text. Certain sections are occasionally ommited in line with the MATH310 syllabus 
+I joined Prof. Nicholas Christakis' Human Nature Lab in 2020 during my freshman year at Yale. At the Human Nature Lab, I worked as part of the HuNaLa team, an app designed to predicted risk of COVID-19 infection based on your personal information and close contacts. My role on the team was to design a COVID-19 risk metric. 
+
+For my project, I built a regression model of COVID-19 deaths in the United States as a function of 10+ public health predictors. Using these metrics, I then designed a risk factor giving an individual's relative risk of infection based on identifying factors. Unfortunately, before the project could be finished, it was cut short due to insufficient and poor data quality. 
