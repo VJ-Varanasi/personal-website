@@ -9,6 +9,7 @@ date: '2022-06-27T00:00:00Z'
 external_link: ''
 
 image: 
+  url: 'cube.jpg'
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
