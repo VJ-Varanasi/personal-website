@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon:
     icon_pack: fab
     name: Fundamental Derivations
     url: https://twitter.com/georgecushen
