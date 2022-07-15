@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: 
+  - icon: twitter
     icon_pack: fab
     name: Latex
     url: ""
