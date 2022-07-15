@@ -71,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a rising Junior at Yale University studying Physics and Statistics & Data Science. My research interests include emergent phenomena, complex systems, non-linear dynamics, and biophysics. I am currently working with Prof. Gregory Laughlin (Yale) to model the volatility of S&P500 as a function of populace fear/uncertainity. In the past, I have worked with Prof. Nicholas Christakis (Yale) to estimate COVID-19 infection rates and Prof. Michael Dickey (NC State) to develop room temperature liquid metal thin films. Outside of research, I am involved in Yale Jashan Bhangra and enjoy cooking. Please feel free to contact me regarding any of my interests or experiences. 
+I am a rising Junior at Yale University studying Physics and Statistics & Data Science. My research interests include emergent phenomena, complex systems, non-linear dynamics, and biophysics. I am currently working with Prof. Gregory Laughlin (Yale) to model the volatility of S&P500 as a function of populace fear/uncertainity. In the past, I have worked with Prof. Nicholas Christakis (Yale) to estimate COVID-19 infection rates and Prof. Michael Dickey (NC State) to develop room temperature liquid metal thin films. Outside of research, I am involved in Yale Jashan Bhangra and enjoy cooking. Please feel free to contact me regarding any of my interests or experiences. 
 
 
 
