@@ -15,11 +15,15 @@ image:
 links:
   - icon: 
     icon_pack: fab
-    name: PDF
+    name: Review Guide
     url: https://twitter.com/georgecushen
   - icon: 
     icon_pack: fab
-    name: LATEX
+    name: Gamelin Complex Analysis
+    url: https://twitter.com/georgecushen
+  - icon: 
+    icon_pack: fab
+    name: LATEX Review Guide
     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''

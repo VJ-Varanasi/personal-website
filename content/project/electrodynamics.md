@@ -13,9 +13,13 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon:
     icon_pack: fab
-    name: Follow
+    name: Griffiths Electrodynamics
+    url: https://twitter.com/georgecushen
+ - icon:
+    icon_pack: fab
+    name: LATEX Review Guide
     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
