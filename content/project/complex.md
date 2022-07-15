@@ -1,6 +1,6 @@
 ---
 title: Complex Analysis
-summary: ' MATH310: Complex Analysis (Fall 2021); Reference text: Complex Analysis by Theodore Gamelin"
+summary: 'MATH310: Complex Analysis (Fall 2021); Reference text: Complex Analysis by Theodore Gamelin'
 tags:
   - Mathematics
 date: '2022-06-27T00:00:00Z'
