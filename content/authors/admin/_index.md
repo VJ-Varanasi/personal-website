@@ -73,8 +73,8 @@ highlight_name: true
 
 I am a rising Junior at Yale University studying Physics and Statistics & Data Science. My research interests include emergent phenomena, complex systems, non-linear dynamics, and biophysics. I am currently working with Prof. Gregory Laughlin (Yale) to model the volatility of S&P500 as a function of populace fear/uncertainity. In the past, I have worked with Prof. Nicholas Christakis (Yale) to estimate COVID-19 infection rates and Prof. Michael Dickey (NC State) to develop room temperature liquid metal thin films. In addition to my scientific research, I also briefly worked with the Yale Policy Lab to evaluate the efficacy of adopting a state infrastructure bank in Connecticut. 
 
-Outside of research, I have experience in strategy & management consulting working on private equity due dilligence, FinTech growth strategy, and market penetration in the manufacturing sector. I have also experience as a data scientist in the biotech industry at an oncology drug discovery company and as a volunteer data analyst on a political campaign. Outside of my work, I am treasurer of Yale Jashan Bhangra and enjoy to cook. 
+Outside of research, I have experience in strategy & management consulting working on private equity due dilligence, FinTech growth strategy, and market penetration in the manufacturing sector. I've also worked as a data scientist at an oncology drug discovery company and as a volunteer data analyst on a political campaign. Outside of my work, I am treasurer of Yale Jashan Bhangra and enjoy to cook. 
 
-More information about my experiences can be found in the past projects section of this website. Feel free to contact me for more information regarding any of my interests of experiences at varun.varanasi@yale.edu.
+For more information about my experiences, please check out past works and projects section of this website. Feel free to contact me for more information regarding any of my interests of experiences at varun.varanasi@yale.edu.
 
 
