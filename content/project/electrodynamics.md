@@ -1,6 +1,6 @@
 ---
 title: Electrodynamics
-summary: An example of using the in-built project page.
+summary: "PHYS430: Electromagnetic Fields and Optics"
 tags:
   - Physics
 date: '2022-06-27T00:00:00Z'

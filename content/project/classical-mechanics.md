@@ -1,6 +1,6 @@
 ---
 title: Classical Mechanics
-summary: An example of using the in-built project page.
+summary: "PHYS410: Classical Mechanics"
 tags:
   - Physics
 date: '2016-04-27T00:00:00Z'

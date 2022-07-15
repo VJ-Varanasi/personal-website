@@ -1,6 +1,6 @@
 ---
 title: Theory of Statistics
-summary: An example of using the in-built project page.
+summary: "S&DS242: Theory of Statistics"
 tags:
   - Statistics
 date: '2016-04-27T00:00:00Z'
