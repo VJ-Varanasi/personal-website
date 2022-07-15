@@ -1,6 +1,6 @@
 ---
-title: Complex Analysis
-summary: 'MATH310: Complex Analysis (Fall 2021)'
+title: State Infrastructure Bank
+summary: 'Worked with Prof. John Dearborn and the Yale Policy Lab'
 tags:
   - Mathematics
 date: '2022-06-27T00:00:00Z'

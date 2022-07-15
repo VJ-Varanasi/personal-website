@@ -1,6 +1,6 @@
 ---
-title: Complex Analysis
-summary: 'MATH310: Complex Analysis (Fall 2021)'
+title: COVID-19 Risk Estimation
+summary: 'Work done with Prof. Nicholas Christakis in the Human Nature Lab at Yale '
 tags:
   - Mathematics
 date: '2022-06-27T00:00:00Z'

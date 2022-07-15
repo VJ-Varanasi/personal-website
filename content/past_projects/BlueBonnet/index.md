@@ -1,6 +1,6 @@
 ---
-title: Complex Analysis
-summary: 'MATH310: Complex Analysis (Fall 2021)'
+title: Political Data Science
+summary: 'Work done with the New Rural Project as a BlueBonnet Fellow'
 tags:
   - Mathematics
 date: '2022-06-27T00:00:00Z'
