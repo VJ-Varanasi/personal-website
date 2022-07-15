@@ -36,6 +36,6 @@ slides: ""
 
 These notes originated from Yale's PHYS430: Electromagnetic Fields and Optics as taught by Prof. Eduardo Higino da Silva Neto in Spring 2022. The course follows *Introduction to Electrodynamics by David Griffiths* covering electrostatics, electric potentials, electric fields in matter, magnetostatics, magnetic fields in matter, electrodynamics, electromagnetic fields, electromagnetic waves, potentials and fields, radiation, and electrodynamics and relativity. 
 
-1. {{% staticref "uploads/Complex Analysis Review Guide 7-22.pdf" "newtab" %}}Griffiths Electrodynamics{{% /staticref %}}: Handwritten notes from *Introduction to Electrodynamics by David Griffiths*
+1. {{% staticref "uploads/Griffiths Electrodynamics_6-20-2022.pdf" "newtab" %}}Griffiths Electrodynamics{{% /staticref %}}: Handwritten notes from *Introduction to Electrodynamics by David Griffiths*
 
-3. {{% staticref "uploads/WIP_note.pdf" "newtab" %}}LATEX Review Guide{{% /staticref %}}: *Work in Progress: A LATEX review guide of Electrodynamics* 
+2. {{% staticref "uploads/WIP_note.pdf" "newtab" %}}LATEX Review Guide{{% /staticref %}}: *Work in Progress: A LATEX review guide of Electrodynamics* 
