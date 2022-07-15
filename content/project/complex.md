@@ -16,7 +16,7 @@ links:
   - icon: 
     icon_pack: fab
     name: Review Guide
-    url: https://twitter.com/georgecushen
+    url: 'uploads/resume.pdf'
   - icon: 
     icon_pack: fab
     name: Gamelin Complex Analysis

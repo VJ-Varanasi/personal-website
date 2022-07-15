@@ -1,6 +1,6 @@
 ---
 title: Classical Mechanics
-summary: "PHYS410: Classical Mechanics"
+summary: "PHYS410: Classical Mechanics (Fall 2021)"
 tags:
   - Physics
 date: '2016-04-27T00:00:00Z'

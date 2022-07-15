@@ -1,6 +1,6 @@
 ---
 title: Electrodynamics
-summary: "PHYS430: Electromagnetic Fields and Optics"
+summary: "PHYS430: Electromagnetic Fields and Optics (Spring 2022)"
 tags:
   - Physics
 date: '2022-06-27T00:00:00Z'
