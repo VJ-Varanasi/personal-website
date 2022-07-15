@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: ReCompiled Notes
-subtitle: "A brief summary of some things I've learned"
+title: Past Work and Projects
+subtitle: "A brief summary of some of my past projects"
 
 content:
   # Page type to display. E.g. project.
@@ -44,7 +44,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
