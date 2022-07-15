@@ -3,7 +3,7 @@ title: 1. Project Introduction
 subtitle: An overview of the background and scope of this research project
 
 # Summary for listings and search engines
-summary: Forecasting the VIX index based on populace uncertainity as measured by user data on https://www.metaculus.com/questions/
+summary: Forecasting the VIX index based on populace uncertainty as measured by user data on https://www.metaculus.com/questions/
 
 # Link this post with a project
 projects: []
