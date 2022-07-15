@@ -8,7 +8,7 @@ date: '2022-06-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image: 'uploads/IMG_DCECF9B86E94-1.jpeg'
+image: 
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
