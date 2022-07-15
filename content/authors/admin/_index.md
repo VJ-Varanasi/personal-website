@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BS in Intensive Physics
+    - course: BS in Physics (Intensive)
       institution: Yale University
       year: 2024 (expected)
     - course: BA in Statistics and Data Science
