@@ -24,7 +24,7 @@ links:
   - icon: 
     icon_pack: fab
     name: LATEX Review Guide
-    url: 'WIP_note.pdf'
+    url: 'uploads/WIP_note.pdf'
 url_code: ''
 url_pdf: ''
 url_slides: ''
