@@ -8,7 +8,7 @@ date: '2022-06-27T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
+image: 'uploads/IMG_DCECF9B86E94-1.jpeg'
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
@@ -20,11 +20,11 @@ links:
   - icon: 
     icon_pack: fab
     name: Gamelin Complex Analysis
-    url: https://twitter.com/georgecushen
+    url: 'uploads/Gamelin Complex Analysis 7-22.pdf'
   - icon: 
     icon_pack: fab
     name: LATEX Review Guide
-    url: https://twitter.com/georgecushen
+    url: 'WIP_note.pdf'
 url_code: ''
 url_pdf: ''
 url_slides: ''
