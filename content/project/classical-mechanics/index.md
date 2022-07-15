@@ -30,4 +30,4 @@ url_video: ''
 slides: ""
 ---
 
-{{% staticref "uploads/Classical Mechanics Derivations.pdf" "newtab" %}}Classical Mechanics Derivations{{% /staticref %}} is a summary of key ideas and associated derivations from Yale's PHYS410 as taught by Prof. Keith Baker in Fall 2021. This course followed "Classical Dynamics of Particles and Systems" by Thorton and Marion, but the notes omit ideas covered in-depth in introductory physics courses in favor of highlighting new and less familiar material/ 
+{{% staticref "uploads/Classical Mechanics Derivations.pdf" "newtab" %}}Classical Mechanics Derivations{{% /staticref %}} is a summary of key ideas and associated derivations from Yale's PHYS410 as taught by Prof. Keith Baker in Fall 2021. This course followed *Classical Dynamics of Particles and Systems by Thorton and Marion*, but the notes omit concepts covered in-depth in introductory physics courses. 
