@@ -16,7 +16,7 @@ links:
   - icon: 
     icon_pack: fab
     name: Review Guide
-    url: 'uploads/resume.pdf'
+    url: 'uploads/Complex Analysis Review Guide 7-22.pdf'
   - icon: 
     icon_pack: fab
     name: Gamelin Complex Analysis
