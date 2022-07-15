@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'VIX and Metaculus Timeseries'
   focal_point: ''
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
