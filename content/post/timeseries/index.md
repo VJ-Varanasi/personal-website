@@ -1,5 +1,5 @@
 ---
-title: Timeseries Analysis
+title: 2. Timeseries Analysis
 subtitle: A summary of the initial timeseries analyses on historical VIX index data
 
 # Summary for listings and search engines

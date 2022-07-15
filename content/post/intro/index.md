@@ -1,5 +1,5 @@
 ---
-title: Project Introduction
+title: 1. Project Introduction
 subtitle: An overview of the background and scope of this research project
 
 # Summary for listings and search engines
