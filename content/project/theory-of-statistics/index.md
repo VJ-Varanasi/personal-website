@@ -34,10 +34,9 @@ url_video: ''
 slides: ""
 ---
 
-These notes follow Yale's "S&DS242: Theory of Statistics" as taught by Prof. Zhou Fan in Spring 2022. The course loosely followed *Mathematical Statistics and Data Analysis by John Rice* and covered principles of statistical inference, hypothesis testing, estimation, confidence intervals, maximum likeligood, Bayesian analysis, asymptotic approximations, computer simulation, and generalized linear models. 
-
+These notes follow Yale's S&DS242: Theory of Statistics as taught by Prof. Zhou Fan in Spring 2022. The course loosely followed *Mathematical Statistics and Data Analysis by John Rice* and covered principles of statistical inference, hypothesis testing, estimation, confidence intervals, maximum likeligood, Bayesian analysis, asymptotic approximations, computer simulation, and generalized linear models. 
 
 
 1. {{% staticref "uploads/STAT 242 Course Notes.pdf" "newtab" %}}Course Notes{{% /staticref %}}: My handwritten course notes from S&DS242 organized by lecture
 
-2. {{% staticref "uploads/STAT242_Review_Guide.pdf" "newtab" %}}LATEX Review Guide{{% /staticref %}}: A LATEX review guide covering the important definitions, theorems, and topics from S&DS242. 
+2. {{% staticref "uploads/STAT242_Review_Guide.pdf" "newtab" %}}LATEX Review Guide{{% /staticref %}}: A LATEX review guide covering important definitions, theorems, and topics from S&DS242. 
