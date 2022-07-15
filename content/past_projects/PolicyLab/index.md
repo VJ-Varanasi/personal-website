@@ -29,7 +29,7 @@ url_video: ''
 slides: ""
 ---
 
-As part of the Yale Policy lab, my team and I researched the efficacy of adopting a State Infrastructure Bank (SIB) in Connecticut. State Infrastructure Banks are governmental loan program designed to incentivize infrastructure construction through low-cost financing options. With the goal of advising Connecticut legislature whether to support an in-state SIB, our project focused conducting SIB case studies,identifying potential opportunities and improvements in SIB implementation. The executive summary and the full brief can be found below. 
+As part of the Yale Policy lab, my team and I worked with Prof. John Dearborn to research the efficacy of adopting a State Infrastructure Bank (SIB) in Connecticut. State Infrastructure Banks are governmental loan programs designed to incentivize construction through low-cost financing options. With the goal of advising Connecticut legislature whether to support an in-state SIB, our project focused conducting SIB case studies, identifying lessons from existing SIBs, and finding potential opportunities for CT. The executive summary and the full brief can be found below. 
 
 **Executive Summary**
 - This brief examines the desirability of creating a state infrastructure bank (SIB) in
