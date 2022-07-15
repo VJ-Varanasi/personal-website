@@ -1,6 +1,6 @@
 ---
 title: Correlating Exchange Traded Funds with Underlying Commodity Future Contracts
-summary: 'S&DS361: Data Analysis Final Project'
+summary: 'Final Project for S&DS361: Data Analysis'
 tags:
 date: '2022-06-27T00:00:00Z'
 
@@ -30,7 +30,8 @@ url_video: ''
 slides: ""
 ---
 
-## Abstract
+
+### Abstract
 
 The goal of this project is to study the relationship between commodity futures contracts and sector-specific
 ETFs (and to specifically examine whether commodity futures contracts can provide predictive power into
@@ -43,3 +44,6 @@ a causality relationship between these three commodities and our ETFs in questio
 their presence is a statistical artifact of our small sample size. Further work would involve rerunning this
 project with additional commodity and ETF data sets in order to see if the observed trends are specific to
 our data sets or indicative of larger phenomena.
+
+
+{{% staticref "uploads/361_Final_Report.pdf" "newtab" %}}Full Report{{% /staticref %}}

@@ -1,6 +1,6 @@
 ---
 title: Liquid Metal Thin Films by Electrophoretic Deposition of Nanoparticles
-summary: 'Work done with Prof. Michael Dickey and Prof. Abolfazl Kiani in the NC State department of Chemical and Biomolecular Engineering'
+summary: 'Work done with Prof. Michael Dickey and Prof. Abolfazl Kiani in the NC State department of Chemical & Biomolecular Engineering'
 tags:
 date: '2022-06-27T00:00:00Z'
 
@@ -34,7 +34,7 @@ url_video: ''
 slides: ""
 ---
 
-From the ages of 14 to 18 I worked with Prof. Michael Dickey in NC State's Chemical and Biomolecular Engineering department studying room temperature liquid metals. Our group specialized in an eutectic Indium and Gallium alloy (EGaIn) that remained liquid under room temperature. In addition to its liquidity, EGaIn has the unique ability to spontaneously form a solid oxide layer when exposed to the atmosphere. Our work primarily focused on exploiting these unique physical and chemical properties to produce novel materials.
+From the ages of 14 to 18 I worked with Prof. Michael Dickey in NC State's Chemical & Biomolecular Engineering department studying room temperature liquid metals. Our group specialized in an eutectic Indium and Gallium alloy (EGaIn) that remained liquid under room temperature. In addition to its liquidity, EGaIn has the unique ability to spontaneously form a solid oxide layer when exposed to the atmosphere. Our work primarily focused on exploiting these unique physical and chemical properties to produce novel materials.
 
 In my first two years in the lab, I worked with a graduate student to produce polymer encapsulated liquid metal droplets via a flow-focusing, a microfluidic particle generation technique. In the years following, I began working independently to produce liquid metal thin films on copper substrates. My work primarily focused on adopting electrophoretic deposition, a process commonly used in ceramics processing, to EGaIn nanoparticles. I've presented this work at both undergraduate and graduate research conferences. An abstract of my work can be found below as well as links to a full paper and poster.
 
@@ -57,4 +57,4 @@ healing and conductive agent to repair damaged electrical circuits.
 
 {{% staticref "uploads/Liquid Metal Thin Films Paper (11_19).pdf" "newtab" %}}EGaIn Electrophoretic Deposition Paper{{% /staticref %}}
 
-{{% staticref "uploads/EPD Image Poster" "newtab" %}}EGaIn Electrophoretic Deposition Poster{{% /staticref %}}
+{{% staticref "uploads/EPD Image Poster.pdf" "newtab" %}}EGaIn Electrophoretic Deposition Poster{{% /staticref %}}
