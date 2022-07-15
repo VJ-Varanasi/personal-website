@@ -9,7 +9,7 @@ summary: A summary of the initial timeseries analyses on historical VIX index da
 projects: []
 
 # Date published
-#date: '2020-12-13T00:00:00Z'
+date: '2022-7-14T00:00:00Z'
 
 # Date updated
 #lastmod: '2020-12-13T00:00:00Z'
