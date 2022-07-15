@@ -13,9 +13,9 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: 
     icon_pack: fab
-    name: twitter
+    name: PDF
     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
