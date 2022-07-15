@@ -14,7 +14,7 @@ subtitle: "A brief summary of some things I've learned"
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: notes
 
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).

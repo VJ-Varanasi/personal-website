@@ -1,30 +1,22 @@
 ---
-title: Complex Analysis
-summary: 'MATH310: Complex Analysis (Fall 2021)'
+title: Correlating Exchange Traded Funds with Underlying Commodity Future Contracts
+summary: 'S&DS361: Data Analysis Final Project'
 tags:
-  - Mathematics
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image: 
-  caption: Stereographic Projection
-  focal_point: Smart
+#image: 
+  #caption: Stereographic Projection
+  #focal_point: Smart
 
 links:
   - icon: 
     icon_pack: fab
-    name: Review Guide
-    url: 'uploads/Complex Analysis Review Guide 7-22.pdf'
-  - icon: 
-    icon_pack: fab
-    name: Gamelin Complex Analysis
-    url: 'uploads/Gamelin Complex Analysis 7-22.pdf'
-  - icon: 
-    icon_pack: fab
-    name: LATEX Review Guide
-    url: 'uploads/WIP_note.pdf'
+    name: Final Report
+    url: 'uploads/361_Final_Report.pdf'
+
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -38,8 +30,16 @@ url_video: ''
 slides: ""
 ---
 
-These notes follow Yale's MATH310: Complex Analysis as taught by Prof. Franco Vargas Pallete in Fall 2021. The course follows *Complex Analysis by Theodore Gamelin*, an undergraduate introduction to the field. The course covered roughly the first 9 chapters of Gamelin's text touching on functions of comlpex variables, differentiability of complex functions, complex integration, Cauchy's theorem, series expansions, calculus of residues, and conformal mapping. 
+## Abstract
 
-1. {{% staticref "uploads/Complex Analysis Review Guide 7-22.pdf" "newtab" %}}Review Guide{{% /staticref %}}: An overview of important definitions, theorems, and relevant proofs, for MATH310 
-
-2. {{% staticref "uploads/Gamelin Complex Analysis 7-22.pdf" "newtab" %}}Gamelin Complex Analysis{{% /staticref %}}: Handwritten notes from the first 9 chapters of Gamelin's text. Certain sections are occasionally ommited in line with the MATH310 syllabus 
+The goal of this project is to study the relationship between commodity futures contracts and sector-specific
+ETFs (and to specifically examine whether commodity futures contracts can provide predictive power into
+the ETF prices of related sectors). The procedure for doing so involved running a LASSO regression of
+historical commodity data sets against sector-specific ETFs (Energy, Home-Construction, Industrials, and
+Technology). By selecting LASSO regression thresholds that kept relatively high null-deviance while minimizing the number of predictors, we identified the significant commodity predictors for each of our ETFs.
+Specifically, we noticed that Lumber, Palladium, and Platinum were consistently present in each of our
+models. Due to the distinctiveness of our ETF sectors, we hypothesize that their presence does not support
+a causality relationship between these three commodities and our ETFs in question. Instead, we believe that
+their presence is a statistical artifact of our small sample size. Further work would involve rerunning this
+project with additional commodity and ETF data sets in order to see if the observed trends are specific to
+our data sets or indicative of larger phenomena.

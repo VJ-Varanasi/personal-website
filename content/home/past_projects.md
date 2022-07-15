@@ -25,15 +25,7 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Mathematics
-      tag: Mathematics
-    - name: Physics
-      tag: Physics
-    - name: Statistics
-      tag: Statistics
+  # see projects
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -44,7 +36,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
