@@ -11,6 +11,7 @@ weight: 70
 
 title: 'Past Work and Projects'
 subtitle:
+active: false
 
 content:
   # Page type to display. E.g. post, event, publication...
