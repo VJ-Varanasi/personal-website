@@ -29,4 +29,4 @@ url_video: ''
 slides: ""
 ---
 
-Earned Outstanding Distinction (top 9 out of 791) in COMAP's 2019 HiMCM Mathematical Modeling challenge. In the challenge, my team and I modeled the economic impact of charging of personal devices in public spaces. Our solution involved creating an agents based model of personal device charging habits and estimating the resulting impact at various public locations. A full write up of our solution can be found at: {{% staticref "uploads/HiMCM_Paper.pdf" "newtab" %}}HiMCM Solution{{% /staticref %}}
+Earned Outstanding Distinction (top 9 out of 791) in COMAP's 2019 HiMCM Mathematical Modeling challenge. In this challenge, my team and I modeled the economic impact of charging of personal devices in public spaces. Our solution involved creating individual agents based models of personal device charging habits by public locations and estimating the resulting costs. A full write up of our solution can be found at: {{% staticref "uploads/HiMCM_Paper.pdf" "newtab" %}}HiMCM Solution{{% /staticref %}}
