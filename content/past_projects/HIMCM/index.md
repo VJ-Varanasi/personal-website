@@ -1,6 +1,6 @@
 ---
 title: Charge!
-summary: 'COMAP HiMCM 2019 Mathematical Modeling Competition'
+summary: 'COMAP Highschool Mathematical Challenge in Modeling 2019'
 tags:
 date: '2022-06-27T00:00:00Z'
 
