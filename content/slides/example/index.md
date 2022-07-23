@@ -5,6 +5,7 @@ authors: []
 tags: []
 categories: []
 date: '2019-02-05T00:00:00Z'
+active: false
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
