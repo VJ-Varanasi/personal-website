@@ -42,9 +42,7 @@ authors:
 
 ## Project Overview
 
-The goal of this project is to investigate the relationship between populace fear and S&P500 volatility. Specifically, this project looks at the relationship between the VIX index, a measure of S&P500 volatility, and [Metaculus](https://www.metaculus.com/questions/) user data. Metaculus is a community aggregation platform that utilizes its users to predict real-world events. Historically, Metaculus user data has corresponded with times of political and global unrest with spikes occuring at the beginning of the COVID-19 pandemic and the beginning of the Russia-Ukraine conflict. This project aims to leverage this relationship as an indicator for populace fear and uncertainty and discover the correspondence between Metaculus user data and the VIX index with the goal of better understanding stock market dynamics.
+The main objective of this project is to elucidate the relationship between populace fear and the volatility of the US stock market. In this project we estimate market volatility via the VIX Index. Hosted by the Chicago Board Options Exchange, this ticker is a measure of 30-day volatility of the S&P500 index and is a standard indicator of overall market volatility. For more information about VIX Index, please see {{% staticref "uploads/VIX Summary.pdf" "newtab" %}}VIX Summary{{% /staticref %}}. To estimate populace fear, we look to user data on [Metaculus](https://www.metaculus.com/questions/). Metaculus is a community aggregation platform that utilizes its users to predict real-world events. Historically, Metaculus viewership has spiked during times of political and global unrest with recent examples including the COVID-19 pandemic and the Russia-Ukraine conflict. By using these metrics as estimates of volatility and populace fear, we hope to gain insight into stock market dynamics and expose potential outperformance opportunities. 
 
-For more information about VIX Index, please see {{% staticref "uploads/VIX Summary.pdf" "newtab" %}}VIX Summary{{% /staticref %}}.
-
-To see the full project code, please check out [VIX-Metaculus](https://github.com/VJ-Varanasi/VIX-Metaculus).
+To see the full project code repository, please check out [VIX-Metaculus](https://github.com/VJ-Varanasi/VIX-Metaculus).
 
