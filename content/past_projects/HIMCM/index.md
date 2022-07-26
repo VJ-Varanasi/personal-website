@@ -1,6 +1,6 @@
 ---
 title: Charge!
-summary: 'COMAP Highschool Mathematical Challenge in Modeling 2019'
+summary: 'Outstanding Distinction (top 1%) in COMAP's 2019 Highschool Mathematical Challenge in Modeling'
 tags:
 date: '2022-06-27T00:00:00Z'
 
@@ -29,6 +29,5 @@ url_video: ''
 slides: ""
 ---
 
-Earned Outstanding Distinction (top 9 out of 791) in COMAP's 2019 HiMCM Mathematical Modeling challenge. 
 
-In this challenge, my team and I modeled the economic impact of charging of personal devices in public spaces. Our solution involved creating individual agents based models of personal device charging habits by location and estimating the resulting costs. A full write up of our solution can be found at: {{% staticref "uploads/HiMCM_Paper.pdf" "newtab" %}}HiMCM Solution{{% /staticref %}}
+In this challenge, my team and I modeled the economic impact of charging of personal devices in public spaces via a series of agents-based models. A full write up of our methodology and results can be found at: {{% staticref "uploads/HiMCM_Paper.pdf" "newtab" %}}HiMCM Solution{{% /staticref %}}
