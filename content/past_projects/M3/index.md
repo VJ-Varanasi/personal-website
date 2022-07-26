@@ -1,6 +1,6 @@
 ---
 title: 'Keep on Trucking : U.S. Big Rigs Turnover from Diesel to Electric'
-summary: 'Mathworks Math Modeling Challenge 2020'
+summary: 'Semi-Finalist (top 2%) of Mathworks Math Modeling Challenge 2020'
 tags:
 date: '2022-06-27T00:00:00Z'
 
@@ -29,6 +29,5 @@ url_video: ''
 slides: ""
 ---
 
-Semi-finalist (7th-12th out of 760) in M3's 2020 Mathematical Modeling challenge. 
-
-In this challenge, my team and I modeled the transition of the semi-truck industry towards electric alternatives. Our solution involved first modeling the adoption rate of electric trucks and then modeling the associated infrastructure. Our model consisted of a logarithmic regression to estimate the turning point from diesel to electric trucks and two agents based models to estimate the transition rate and locations of charging stations. A full write up of our solution can be found at: {{% staticref "uploads/M3_Challenge.pdf" "newtab" %}}M3 Solution{{% /staticref %}}
+In this challenge, my team and I modeled the transition of the semi-truck industry towards electric alternatives. 
+To estimate the adoption rate of electric tucks and propose locations of charging stations, we developed two models involving logistic regressions and agents-based models. A full write up of our solution can be found at: {{% staticref "uploads/M3_Challenge.pdf" "newtab" %}}M3 Solution{{% /staticref %}}
