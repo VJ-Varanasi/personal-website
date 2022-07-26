@@ -42,6 +42,7 @@ In this context, from an institutional investor’s perspective, the platform is
 baskets of loans classified by grade acting as assets. We measure the value of a basket of loans by the returns it
 brings. With this framework, the goal of our project is to study the efficiency of LendingClub’s loan market to
 draw conclusions about the following:
+
   1. Market Stability: Market efficiency is an integral component of stable markets which are characterized
 by their resilience to technological and demand shocks. Stable markets are also known to promote healthy
 fiscal environments in which economic decisions can be made without fear of unpredictable volatility and
@@ -66,7 +67,6 @@ Our study touches upon each form of the EMH to answer the following questions:
   2. Can publicly available information, such as macroeconomic indicators, be used to predict the returns on
 LendingClub loans?
   3. Is there evidence for insider trading or other leakage of private information on the LendingClub platform?
-
 
 
 {{% staticref "uploads/Team_3_report.pdf" "newtab" %}}Final Report{{% /staticref %}}
