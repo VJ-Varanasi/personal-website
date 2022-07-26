@@ -1,6 +1,6 @@
 ---
-title: Charge!
-summary: 'Outstanding Distinction (top 1%) in COMAP's 2019 Highschool Mathematical Challenge in Modeling'
+title: "Charge!"
+summary: "Outstanding Distinction (top 1%) in COMAP's 2019 Highschool Mathematical Challenge in Modeling"
 tags:
 date: '2022-06-27T00:00:00Z'
 
