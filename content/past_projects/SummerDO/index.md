@@ -1,6 +1,6 @@
 ---
 title: "Testing the Efficient Market Hypothesis in Peer-to-Peer Loan Markets"
-summary: "Project completed as part of Citadel Securities' 2022 Summer Data Open"
+summary: "Placed 2nd in Citadel Securities' 2022 Summer Data Open"
 tags:
 date: '2022-06-27T00:00:00Z'
 
