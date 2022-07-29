@@ -21,10 +21,6 @@ links:
     icon_pack: fab
     name: Gamelin Complex Analysis
     url: 'uploads/Gamelin Complex Analysis 7-22.pdf'
-  - icon: 
-    icon_pack: fab
-    name: LATEX Review Guide
-    url: 'uploads/WIP_note.pdf'
 url_code: ''
 url_pdf: ''
 url_slides: ''

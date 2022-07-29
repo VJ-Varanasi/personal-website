@@ -17,10 +17,6 @@ links:
     icon_pack: fab
     name: Griffiths Electrodynamics
     url: 'uploads/Griffiths Electrodynamics_6-20-2022.pdf'
-  - icon:
-    icon_pack: fab
-    name: LATEX Review Guide
-    url: 'uploads/WIP_note.pdf'
 url_code: ''
 url_pdf: ''
 url_slides: ''
