@@ -3,6 +3,7 @@ title: Correlating Exchange Traded Funds with Underlying Commodity Future Contra
 summary: 'Final Project for S&DS361: Data Analysis'
 tags:
   - Data Science
+  - Finance
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
