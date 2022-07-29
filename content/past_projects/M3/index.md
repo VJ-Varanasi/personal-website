@@ -2,6 +2,7 @@
 title: 'Keep on Trucking : U.S. Big Rigs Turnover from Diesel to Electric'
 summary: 'Semi-Finalist (top 2%) of Mathworks Math Modeling Challenge 2020'
 tags:
+  - Data Science
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

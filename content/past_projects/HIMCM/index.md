@@ -2,6 +2,7 @@
 title: "Charge!"
 summary: "Outstanding Distinction (top 1%) in COMAP's 2019 Highschool Mathematical Challenge in Modeling"
 tags:
+  - Data Science
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

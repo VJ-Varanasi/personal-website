@@ -2,6 +2,7 @@
 title: A Connecticut State Infrastructure Bank? Opportunities and Lessons
 summary: 'Work done with Prof. John Dearborn and the Yale Policy Lab'
 tags:
+  - Research
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

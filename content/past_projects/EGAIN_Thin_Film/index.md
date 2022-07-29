@@ -1,7 +1,8 @@
 ---
 title: Liquid Metal Thin Films by Electrophoretic Deposition of Nanoparticles
 summary: 'Work done with Prof. Michael Dickey and Prof. Abolfazl Kiani in the NC State department of Chemical & Biomolecular Engineering'
-tags:
+tags: 
+  - Research
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
