@@ -1,5 +1,5 @@
 ---
-title: 3. Preliminary Trading Trategies
+title: 3. Preliminary Trading Strategies
 subtitle: A summary of initial trading strategies implemented using Metaculus User Data
 
 # Summary for listings and search engines
@@ -42,7 +42,7 @@ authors:
 
 ## Overview
 
-After our preliminary exploration of our timeseiries, our next objective was to develop a proof of concept alpha yielding trading strategy using the metaculus user data. We designed and tested our trading strategies via BackTrader. A complete write-up of our testing strategies can be found at {{% staticref "uploads/Trading Strategies Guide.pdf" "newtab" %}}Trading Strategies Guide{{% /staticref %}}. Corresponding code and strategies can be found at [VXX_Metaculus_POC.py script](https://github.com/VJ-Varanasi/VIX-Metaculus/blob/master/VXX_Metaculus_POC.py) and [trading_strat.py script] (https://github.com/VJ-Varanasi/VIX-Metaculus/blob/master/trading_strat.py). At a high level, we our optimized trading strategies were able to produce profits, but we were unable to develop simply strategies with positive sharpe-ratios. Further work is needed to amplify the signal and produce alpha-generating strategies. 
+After our preliminary timeseiries exploration, our next objective was to develop a trading strategy using the metaculus user data.  We designed and tested a set of proof of concept trading strategies using python's BackTrader. A complete write-up of our strategies and corresponding results can be found at {{% staticref "uploads/Trading Strategies Guide.pdf" "newtab" %}}Trading Strategies Guide{{% /staticref %}}. More information about backtrading code and trading strategies can be found at [VXX_Metaculus_POC.py script](https://github.com/VJ-Varanasi/VIX-Metaculus/blob/master/VXX_Metaculus_POC.py) and [trading_strat.py script](https://github.com/VJ-Varanasi/VIX-Metaculus/blob/master/trading_strat.py). At a high level, our proof of concept was partially successful in that our strategies were able to produce profits; however, our strategies were unable to generate positive sharpe ratios. Further work is required to amplify metaculus signal and produce alpha-generating strategies. 
 
 
 
