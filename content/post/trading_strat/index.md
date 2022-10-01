@@ -1,9 +1,9 @@
 ---
-title: 2. Timeseries Analysis
-subtitle: A summary of the initial timeseries analyses on historical VIX index data
+title: 3. Preliminary Trading Trategies
+subtitle: A summary of initial trading strategies implemented using Metaculus User Data
 
 # Summary for listings and search engines
-summary: A summary of the initial timeseries analyses on historical VIX index data
+summary: A summary of initial trading strategies implemented using Metaculus User Data
 
 # Link this post with a project
 projects: []
@@ -42,9 +42,10 @@ authors:
 
 ## Overview
 
-The first milestone of the project was to conduct a preliminary timeseries analysis on the VIX dataset. Our data is scrapped daily from the CBOE website via the [DownloadCSV.py script](https://github.com/VJ-Varanasi/VIX-Metaculus/blob/master/DownloadCSV.py). Our analysis was conducted using the [TimeSeriesPlot.py script](https://github.com/VJ-Varanasi/VIX-Metaculus/blob/master/TimeSeriesPlot.py) in which we looked at visualizing timeseries plots, timeseries decompositions, stationarity tests, seasonality, data interpolation, and Granger Causality. The results of our preliminary analysis can be found at {{% staticref "uploads/VIX Timeseries Analysis.pdf" "newtab" %}}VIX Timeseries Analysis{{% /staticref %}}
+After our preliminary exploration of our timeseiries, our next objective was to develop a proof of concept alpha yielding trading strategy using the metaculus user data. We designed and tested our trading strategies via BackTrader. A complete write-up of our testing strategies can be found at {{% staticref "uploads/Trading Strategies Guide.pdf" "newtab" %}}Trading Strategies Guide{{% /staticref %}}. Corresponding code and strategies can be found at [VXX_Metaculus_POC.py script](https://github.com/VJ-Varanasi/VIX-Metaculus/blob/master/VXX_Metaculus_POC.py) and [trading_strat.py script] (https://github.com/VJ-Varanasi/VIX-Metaculus/blob/master/trading_strat.py). At a high level, we our optimized trading strategies were able to produce profits, but we were unable to develop simply strategies with positive sharpe-ratios. Further work is needed to amplify the signal and produce alpha-generating strategies. 
 
-More information about the datasets and timeseries analysis can be found at {{% staticref "uploads/Timeseries README.pdf" "newtab" %}}Timeseries README{{% /staticref %}}
+
+
 
 
 
