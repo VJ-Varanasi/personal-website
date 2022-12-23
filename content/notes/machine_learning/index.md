@@ -30,6 +30,6 @@ url_video: ''
 slides: ""
 ---
 
-These notes originated from Yale's S&DS665: Intermediate Machine Learning as taught by Prof. John Lafferty in Fall 2022. The course covers sparse regression, non-parametric regression, neural networks, convolutional neural networks, gaussian processes, variational inference, variational autoencoders, graph methods, reinforcement learning, Q-learning, deep reinforcement learning, policy iteration and gradient methods, actor-critic methods, sequence models, recurrent neural netowrks, GRUs, and transformers
+These notes originated from Yale's S&DS665: Intermediate Machine Learning as taught by Prof. John Lafferty in Fall 2022. The course covers sparse regression, non-parametric regression, neural networks, convolutional neural networks, gaussian processes, variational inference, variational autoencoders, graph methods, reinforcement learning, Q-learning, deep reinforcement learning, policy iteration and gradient methods, actor-critic methods, sequence models, recurrent neural netowrks, GRUs, and transformers.
 
 1. {{% staticref "uploads/665 class notes.pdf" "newtab" %}}Course Notes{{% /staticref %}}: Handwritten notes from S&DS665: Intermediate Machine Learninc

@@ -35,6 +35,8 @@ content:
       tag: Research
     - name: Finance
       tag: Finance
+    - name: Applied Math
+      tag: Applied Math
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
