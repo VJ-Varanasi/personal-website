@@ -52,4 +52,4 @@ our project outlining a future project proving the signal re-producing capabilit
 the role of neural circuits and higher cognitive function.
 
 
-{{% staticref "uploads/Complex_Ststems_Term_Paper.pdf.pdf" "newtab" %}}Full Report{{% /staticref %}}
+{{% staticref "uploads/Complex_Systems_Term_Paper.pdf" "newtab" %}}Full Report{{% /staticref %}}
