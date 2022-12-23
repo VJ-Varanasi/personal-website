@@ -40,4 +40,3 @@ These notes follow Yale's MATH310: Complex Analysis as taught by Prof. Franco Va
 
 2. {{% staticref "uploads/Gamelin Complex Analysis 7-22.pdf" "newtab" %}}Gamelin Complex Analysis{{% /staticref %}}: Handwritten notes from the first 9 chapters of Gamelin's text. Certain sections are occasionally ommited in line with the MATH310 syllabus 
 
-3. {{% staticref "uploads/WIP_note.pdf" "newtab" %}}LATEX Review Guide{{% /staticref %}}: *Work in Progress: A LATEX review guide of complex analysis* 

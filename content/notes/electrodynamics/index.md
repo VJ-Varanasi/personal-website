@@ -34,4 +34,3 @@ These notes originated from Yale's PHYS430: Electromagnetic Fields and Optics as
 
 1. {{% staticref "uploads/Griffiths Electrodynamics_6-20-2022.pdf" "newtab" %}}Griffiths Electrodynamics{{% /staticref %}}: Handwritten notes from *Introduction to Electrodynamics by David Griffiths*
 
-2. {{% staticref "uploads/WIP_note.pdf" "newtab" %}}LATEX Review Guide{{% /staticref %}}: *Work in Progress: A LATEX review guide of Electrodynamics* 
