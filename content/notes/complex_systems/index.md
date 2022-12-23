@@ -1,6 +1,6 @@
 ---
-title: Electrodynamics
-summary: "PHYS430: Electromagnetic Fields and Optics (Spring 2022)"
+title: Complex Systems
+summary: "PHYS428: Complex Systems (Fall 2022)"
 tags:
   - Physics
   - Mathematics
