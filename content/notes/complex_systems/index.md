@@ -31,7 +31,7 @@ url_video: ''
 slides: ""
 ---
 
-These notes originated from Yale's PHYS428: Complex Systems as taught by Prof. Jun Korenaga in Fall 2022. The course loosely follows *Non-linear dynamics and Chaos by Steven Strogatz* covering complex systems, bifurcation theory, deterministic chaos, numerical methods, and linear models among other things
+These notes originated from Yale's PHYS428: Complex Systems as taught by Prof. Jun Korenaga in Fall 2022. The course loosely follows *Non-linear dynamics and Chaos by Steven Strogatz* covering complex systems, bifurcation theory, deterministic chaos, numerical methods, and linear models among other things.
 
 
 1. {{% staticref "uploads/Complex Systems.pdf" "newtab" %}}Complex Systems{{% /staticref %}}: Handwritten notes from *PHYS428: Complex Systems*
