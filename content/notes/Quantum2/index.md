@@ -1,5 +1,5 @@
 ---
-title: Quantum Mechanics I
+title: Quantum Mechanics II
 summary: "PHYS441: Quantum Mechanics II (Spring 2023)"
 tags:
   - Physics
