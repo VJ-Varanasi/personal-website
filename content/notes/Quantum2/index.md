@@ -15,7 +15,7 @@ image:
 links:
   - icon: 
     icon_pack: fab
-    name: Shankar Quantum Mechanics
+    name: Shankar Quantum Mechanics II
     url: 'uploads/quantum2.pdf'
 url_code: ''
 url_pdf: ''

@@ -9,7 +9,7 @@ date: '2022-06-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Binary Search Tree
+  caption: Balanced Binary Search Tree
   focal_point: Smart
 
 links:

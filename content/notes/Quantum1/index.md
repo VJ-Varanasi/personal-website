@@ -15,7 +15,7 @@ image:
 links:
   - icon: 
     icon_pack: fab
-    name: Shankar Quantum Mechanics
+    name: Shankar Quantum Mechanics I
     url: 'uploads/PHYS 440 Class Notes.pdf'
 url_code: ''
 url_pdf: ''
@@ -30,7 +30,7 @@ url_video: ''
 slides: ""
 ---
 
-These notes originated from Yale's PHYS430: Quantum Mechanics I as taught by Prof. Ramamurthi Shankar in Fall 2022. The course follows *Principles of Quantum Mechanics by Ramamurthi Shankar* covering operators, coupled masses, lagrange and hamiltonian methods, postulates of quantum mechanics, schrodinger's equation, ehrenfest's theorem, free particles, particle in a box, scatter, quantum harmonic oscillator, dirac oscillator, uncertainity principle, multiple particles, identical particles, symmetries and invariance,  angular momentum, and the hydrogen atom. 
+These notes originated from Yale's PHYS440: Quantum Mechanics I as taught by Prof. Ramamurthi Shankar in Fall 2022. The course is the first course in a two sequence series following *Principles of Quantum Mechanics by Ramamurthi Shankar* covering operators, coupled masses, lagrange and hamiltonian methods, postulates of quantum mechanics, schrodinger's equation, ehrenfest's theorem, free particles, particle in a box, scatter, quantum harmonic oscillator, dirac oscillator, uncertainity principle, multiple particles, identical particles, symmetries and invariance,  angular momentum, and the hydrogen atom. 
 
 1. {{% staticref "uploads/PHYS 440 Class Notes.pdf" "newtab" %}}Quantum Mechanics I{{% /staticref %}}: Handwritten notes from PHYS440: Quantum Mechanics 1
 
