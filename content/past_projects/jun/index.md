@@ -17,7 +17,7 @@ links:
   - icon: 
     icon_pack: fab
     name: Progress Report
-    url: 'uploads/Emergence of Autocatalytic Reaction Networks Report.pdf'
+    url: 'uploads/final_thesis.pdf'
 
 url_pdf: ''
 url_slides: ''
@@ -31,7 +31,8 @@ url_video: ''
 # slides: "PHYS 472"
 ---
 
-Falling under the larger umbrella of theoretical biology and origin of life research, my senior thesis work with Prof. Jun Korenaga aims to study the emergence of autocatalytic reaction networks in pre-biotic chemical models. The work highlighted below represents the final reports and presentations for PHYS472, the physics senior thesis class at Yale, but the project still remains a work in progress. 
+Falling under the larger umbrella of theoretical biology and origin of life research, my senior thesis work with Prof. Jun Korenaga aims to study the emergence of autocatalytic reaction networks in pre-biotic chemical models. The work highlighted below represents the final reports and presentations for PHYS472 + PHYS471, the physics senior thesis classes at Yale, but the project still remains a work in progress. 
 
-1. {{% staticref "uploads/Emergence of Autocatalytic Reaction Networks Report.pdf" "newtab" %}} Progress Report{{% /staticref %}}
+1. {{% staticref "uploads/final_thesis.pdf" "newtab" %}} Progress Report{{% /staticref %}}
 2. {{% staticref "uploads/PHYS 472.pdf" "newtab" %}} Progress Presentation{{% /staticref %}}
+3. {{% staticref "uploads/Poster.pdf" "newtab" %}} Poster{{% /staticref %}}
