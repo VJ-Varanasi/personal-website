@@ -30,12 +30,8 @@ url_video: ''
 slides: ""
 ---
 
-These notes originated from Yale's PHYS420: Thermodynamics and Statistical Mechanics as taught by Prof. Nicholas Read in Spring 2023. The course loosely follows *Fundamentals of Statistical and Thermal Physics by Fredrick  Reif* covering the thermodynamics of ideal gases and heat engines, simple applications of statistical mechanics, partition functions, the gibbs paradox, the microcanonical, canonical and grandcanonical ensembles, and quantum statistics of ideal gases.
+These notes originated from Yale's PHYS420: Thermodynamics and Statistical Mechanics as taught by Prof. Nicholas Read in Fall 2023. The course loosely follows *Fundamentals of Statistical and Thermal Physics by Fredrick  Reif* covering the thermodynamics of ideal gases and heat engines, simple applications of statistical mechanics, partition functions, the gibbs paradox, the microcanonical, canonical and grandcanonical ensembles, and quantum statistics of ideal gases.
 
 {{% staticref "uploads/StatMechClassNotes.pdf" "newtab" %}}Lecture Notes{{% /staticref %}}: Handwritten  lectures notes 
 
 {{% staticref "uploads/StatMech.pdf" "newtab" %}}LATEX Notes{{% /staticref %}}: LATEX notes from *Fundamentals of Statistical and Thermal Physics by Fredrick  Reif*
-
-
-
-
