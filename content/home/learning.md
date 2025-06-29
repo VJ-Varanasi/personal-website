@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 title: "What I'm Learning"
-subtitle: 'Some cool things I learned'
+subtitle: "Some cool things I've been thinking about"
 active: true
 
 content:
@@ -36,6 +36,8 @@ content:
       tag: '*'
     - name: Dynamical Systems
       tag: Dynamical Systems
+    - name: Data Science
+      tag: Data Science
 
 design:
   # Choose a view for the listings:
