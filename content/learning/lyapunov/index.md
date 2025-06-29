@@ -1,17 +1,17 @@
 ---
 title: Lyapunov Functions
-subtitle: 
+subtitle: temp
 
 # Summary for listings and search engines
-summary: 
+summary: temp
 
 # Link this post with a project
 projects: []
 
 # Date published
 #date: '2022-7-14T00:00:00Z'
-tags:
-  - dynamicalsystems
+# tags:
+#   - dynamicalsystems
 # Date updated
 #lastmod: '2022-7-14T00:00:00Z'
 

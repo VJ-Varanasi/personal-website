@@ -1,9 +1,9 @@
 ---
 title: Koopman Dynamics and Koopman Operator Theory
-subtitle: 
+subtitle: twemp
 
 # Summary for listings and search engines
-summary: 
+summary: temp
 
 # Link this post with a project
 projects: []
