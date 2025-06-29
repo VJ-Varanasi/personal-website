@@ -11,7 +11,7 @@ weight: 60
 
 title: 'Predicting the volatility of the S&P500'
 subtitle:
-active: false
+active: true
 
 content:
   # Filter on criteria

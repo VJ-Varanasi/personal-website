@@ -19,8 +19,7 @@ bio: ""
 # Interests to show in About widget
 interests:
   - Emergent Phenomena
-  - Complex Systems
-  - Non-linear dynamics
+  - Neural Computation
   - Biophysics
 
 # Education to show in About widget
@@ -28,10 +27,10 @@ education:
   courses:
     - course: BS in Physics (Intensive)
       institution: Yale University
-      year: 2024 (expected)
+      year: 2024 
     - course: BA in Statistics and Data Science
       institution: Yale University
-      year: 2024 (expected)
+      year: 2024 
     - course: HS Diploma
       institution: North Carolina School of Science and Mathematics
       year: 2020
@@ -43,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:varun.varanasi@yale.edu"
+    link: "mailto:varun.varanasi@gmail.com"
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
