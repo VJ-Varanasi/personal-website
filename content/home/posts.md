@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 'What I'm Learning'
+title: 'What Im Learning'
 subtitle:
 active: true
 
