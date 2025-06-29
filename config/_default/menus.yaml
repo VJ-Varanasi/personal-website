@@ -12,7 +12,7 @@ main:
     weight: 30
   - name: Past Projects
     url: '#past_projects'
-    weight: 40
+    weight: 50
   # - name: What I'm Learning
   #   url: '#learning'
   #   weight: 50
@@ -27,7 +27,7 @@ main:
   #  weight: 15
   - name: What I'm Learning
     url: '#learning'
-    weight: 50
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

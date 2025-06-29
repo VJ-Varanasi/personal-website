@@ -11,7 +11,7 @@ projects: []
 # Date published
 #date: '2022-7-14T00:00:00Z'
 tags:
-  - dynamicalsystems
+  - Dynamical Systems
 # Date updated
 #lastmod: '2022-7-14T00:00:00Z'
 

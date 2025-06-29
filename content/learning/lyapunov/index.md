@@ -32,8 +32,8 @@ image:
 authors:
   - admin
 
-#tags:
-#  - Academic
+tags:
+ - Dynamical Systems
 
 
 #categories:
