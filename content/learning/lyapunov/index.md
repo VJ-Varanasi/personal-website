@@ -16,7 +16,7 @@ projects: []
 #lastmod: '2022-7-14T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false
