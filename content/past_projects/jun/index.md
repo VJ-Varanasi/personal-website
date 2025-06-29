@@ -15,7 +15,7 @@ external_link: ''
 links:
   - icon: 
     icon_pack: fab
-    name: Progress Report
+    name: Preprint
     url: 'uploads/Emergence_of_Autocatalysis_in_Prebiotic_Reaction_Networks_10_29_24.pdf'
 
 url_pdf: ''
