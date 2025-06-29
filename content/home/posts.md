@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 'What Im Learning'
+title: 'VIX Index Old'
 subtitle:
 active: true
 

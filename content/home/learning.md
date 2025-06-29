@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 70
 
 title: 'What I'm Learning'
 subtitle:
@@ -36,4 +36,4 @@ design:
   # Choose a view for the listings:
   view: showcase
   columns: '1'
---- -->
+---

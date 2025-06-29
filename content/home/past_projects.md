@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 85
 
 title: Past Projects
 subtitle: "An overview of some of my past work"
