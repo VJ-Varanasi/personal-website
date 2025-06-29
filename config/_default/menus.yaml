@@ -7,15 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: S&P500 Volatility
-    url: '#posts'
-    weight: 20
+  # - name: S&P500 Volatility
+  #   url: '#posts'
+  #   weight: 20
   - name: Compiled Notes
     url: '#notes'
     weight: 30
   - name: Past Projects
     url: '#past_projects'
     weight: 40
+  - name: What I'm Learning
+    url: '#learning'
+    weight: 50
   #- name: Publications - Delete
   #  url: '#featured'
   #  weight: 70
