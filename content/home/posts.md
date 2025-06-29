@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 'Predicting the volatility of the S&P500'
+title: 'What I'm Learning'
 subtitle:
 active: true
 
@@ -17,7 +17,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - learning
     tag: ''
     category: ''
     publication_type: ''

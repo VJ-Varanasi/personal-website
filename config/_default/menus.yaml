@@ -13,9 +13,9 @@ main:
   - name: Past Projects
     url: '#past_projects'
     weight: 40
-  - name: What I'm Learning
-    url: '#learning'
-    weight: 50
+  # - name: What I'm Learning
+  #   url: '#learning'
+  #   weight: 50
   #- name: Publications - Delete
   #  url: '#featured'
   #  weight: 70
@@ -25,9 +25,9 @@ main:
   #- name: Landing - Delete
   #  url: '#landing'
   #  weight: 15
-  # - name: S&P500 Volatility
-  #   url: '#posts'
-  #   weight: 20
+  - name: What I'm Learning
+    url: '#posts'
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
