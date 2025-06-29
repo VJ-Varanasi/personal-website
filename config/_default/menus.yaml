@@ -25,7 +25,7 @@ main:
   #- name: Landing - Delete
   #  url: '#landing'
   #  weight: 15
-  - name: What I'm Learning
+  - name: Thoughts & Pieces
     url: '#learning'
     weight: 40
 
