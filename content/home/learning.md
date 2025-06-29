@@ -31,6 +31,7 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: asc
+  filter_default: 0
   filter_button:
     - name: All
       tag: '*'
