@@ -31,6 +31,11 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: asc
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Dynamical Systems
+      tag: Dynamical Systems
 
 design:
   # Choose a view for the listings:
