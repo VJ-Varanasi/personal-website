@@ -2,8 +2,7 @@
 title: "Emergence of Autocatalytic Reaction Networks"
 summary: "Ongoing research with Prof. Jun Korenaga"
 tags:
-  - Applied Math
-  - Research
+  - Origin of Life
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -17,7 +16,7 @@ links:
   - icon: 
     icon_pack: fab
     name: Progress Report
-    url: 'uploads/final_thesis.pdf'
+    url: 'uploads/Emergence_of_Autocatalysis_in_Prebiotic_Reaction_Networks_10_29_24.pdf'
 
 url_pdf: ''
 url_slides: ''
@@ -31,8 +30,5 @@ url_video: ''
 # slides: "PHYS 472"
 ---
 
-Falling under the larger umbrella of theoretical biology and origin of life research, my senior thesis work with Prof. Jun Korenaga aims to study the emergence of autocatalytic reaction networks in pre-biotic chemical models. The work highlighted below represents the final reports and presentations for PHYS472 + PHYS471, the physics senior thesis classes at Yale, but the project still remains a work in progress. 
-
-1. {{% staticref "uploads/final_thesis.pdf" "newtab" %}} Progress Report{{% /staticref %}}
-2. {{% staticref "uploads/PHYS 472.pdf" "newtab" %}} Progress Presentation{{% /staticref %}}
-3. {{% staticref "uploads/Poster.pdf" "newtab" %}} Poster{{% /staticref %}}
+My work with Prof. Jun Korenaga develops a novel analytical model to explain the emergence of reflexivley autocatalytic and food-generated (RAF) sets in Kauffman networks. This work addresses a well-documented, but previously unexplained phenomena in the field. We show that the sudden probabilistic increase in the likelihood of observing autocatalysis arises from the dispartiy between the number of ways to select k unique molecule-reaction pairs and the number of ways to allocate minimally RAF sets among them.  This perspective on RAF theory offers new insights into the underlying structure
+of Kauffman networks, particularly emphasizing the importance of catalytic cores.

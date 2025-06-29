@@ -31,12 +31,10 @@ content:
       tag: '*'
     - name: Data Science
       tag: Data Science
-    - name: Research
-      tag: Research
-    - name: Finance
-      tag: Finance
-    - name: Applied Math
-      tag: Applied Math
+    - name: Origin of Life
+      tag: Origin of Life
+    - name: Neuroscience
+      tag: Neuroscience
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
