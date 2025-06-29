@@ -11,8 +11,7 @@ weight: 60
 
 title: 'VIX Index Old'
 subtitle:
-active: true
-
+active: false
 content:
   # Filter on criteria
   filters:
