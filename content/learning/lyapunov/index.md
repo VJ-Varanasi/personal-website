@@ -52,7 +52,7 @@ Lyapunov functions refer to Lyapunov's Second Method or Direct Method of studyin
 A general autonomous dynamical system can be defined by the following relations:
 
 $$
-\dot{s} = g(s) \\
+\dot{s} = g(s) \\\
 g: \mathbb{R}^n \rightarrow \mathbb{R}^n
 $$
 
