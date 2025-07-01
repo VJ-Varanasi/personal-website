@@ -17,15 +17,22 @@ links:
     icon_pack: fab
     name: Paper
     url: 'uploads/KoopmanDynamics.pdf'
-  - icon: 
-    icon_pack: fab
-    name: Presentation
-    url: 'uploads/KoopmanDynamicsPresentation.pdf'
+  # - icon: 
+  #   icon_pack: fab
+  #   name: Presentation
+  #   url: 'uploads/KoopmanDynamicsPresentation.pdf'
 
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image: 
+  caption: "Schematic from 'Notes on Koopman Theory'"
+  focal_point: ''
+  placement: 2
+  preview_only: true
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

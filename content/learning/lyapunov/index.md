@@ -169,7 +169,7 @@ $$
 A^TP + AP + Q = 0
 $$
 
-For any stable system, A , there exists a unique solution P  > 0  for any Q > 0. In practice, this means that we can set Q to I and solve for P to find a single Lyapunov function. For a given pair of P and Q, we can interpret the values $x^TPx$  as the generalized energy of the system and $x^T Qx$ as the generalized dissipation. We can think of P as the generalized energy of the system since it is how define the ‘energy’ of the system. Q is the dissipation term since it is equivalent to the interactions between the energy of the system, P, and the dynamics of the system, A. Since the energy is decreasing over time, proportional to Q we can think of it as dissipation. 
+For any stable system, A , there exists a unique solution P  > 0  for any Q > 0. In practice, this means that we can set Q to $I$ and solve for P to find a single Lyapunov function. For a given pair of P and Q, we can interpret the values $x^TPx$  as the generalized energy of the system and $x^T Qx$ as the generalized dissipation. We can think of P as the generalized energy of the system since it is how define the ‘energy’ of the system. Q is the dissipation term since it is equivalent to the interactions between the energy of the system, P, and the dynamics of the system, A. Since the energy is decreasing over time and proportional to Q we can think of it as dissipation. 
 
 ### Theorems
 
