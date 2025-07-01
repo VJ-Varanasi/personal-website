@@ -52,11 +52,13 @@ Lyapunov functions refer to Lyapunov's Second Method or Direct Method of studyin
 A general autonomous dynamical system can be defined by the following relations:
 
 $$
-\dot{s} = g(s) \\\
+\dot{s} = g(s)
+$$
+$$
 g: \mathbb{R}^n \rightarrow \mathbb{R}^n
 $$
 
-We refer to this as an autonomous dynamical function since the evolution function, g, is constant with time. The system exists in an n dimensional space and evolves according to the continuously differentiable function g. The system has an equilibrium point at $s^*$ if $g(s^*) = 0$.  For ease of analysis we consider the case where the equilibrium point is at the origin. In fact, for any equilibrium point there exists a coordinate transformation such that the origin is the equilibrium point. 
+We refer to this as an autonomous dynamical function since the evolution function, g, is constant with time. The system exists in an n dimensional space and evolves according to the continuously differentiable function g. The system has an equilibrium point at $s^\ast$ if $g(s^\ast) = 0$.  For ease of analysis we consider the case where the equilibrium point is at the origin. In fact, for any equilibrium point there exists a coordinate transformation such that the origin is the equilibrium point. 
 
 ### Stability of Equilibrium Points
 
