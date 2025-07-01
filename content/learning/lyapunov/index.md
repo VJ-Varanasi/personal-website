@@ -116,15 +116,10 @@ How does this function satisfy the necessary conditions for the Lyapunov functio
 - $\dot{V}(s) = \frac{dV}{ds} \frac{ds}{dt} =  \nabla V \cdot g \leq 0$ for $s \neq 0$
 
 $$
-\dot{V}(s) = \begin{bmatrix}
- \omega^2 x \\\ y
- \end{bmatrix} \cdot \begin{bmatrix} 
-y \\
-- \omega^2 x \\\
-\end{bmatrix} = 0
+\dot{V}(s) = \begin{bmatrix}\omega^2 x \\\ y \end{bmatrix} \cdot \begin{bmatrix} y \\ - \omega^2 x \\\ \end{bmatrix} = 0
 $$
 
-Notice that in our undamped system the derivative of the Lyapunov function is 0. This implies that the system is Lyapunov stable, but not asymptotically stable. The physical interpretation of this is that the system does not dissipate energy and continuously oscillates with constant amplitude. If we had a damping term in our equation of motion then we would find that the derivative of the Lyapunov function is strictly negative implying asymptotic stability. Notice here that conservative systems are Lyapunov stable whereas dissipative systems are asymptotically stable! 
+Notice that in our undamped system the derivative of the Lyapunov function is 0. This implies that the system is Lyapunov stable, but not asymptotically stable. The physical interpretation of this is that the system does not dissipate energy and continuously oscillates with constant amplitude. If we had a damping term in our equation of motion then we would find that the derivative of the Lyapunov function is strictly negative implying asymptotic stability. Conservative systems are Lyapunov stable whereas dissipative systems are asymptotically stable! 
 
 We can visualize the trajectories taken. In the case of the Undamped harmonic oscillator we see that the system stays in the energy level set corresponding to its initial trajectory. 
 
@@ -165,7 +160,7 @@ where P represents a positive definite matrix. If we consider the Lyapunov condi
 - $\dot{V}(x) = \frac{dV}{dx} \frac{dx}{dt} =  \nabla V \cdot g \leq 0$ for $x \neq 0$
 
 $$
-\dot{V}(x) = \frac{dx^T}{dt} Px + x^T P \frac{dx}{dt} = (Ax)^T P x + x^T P Ax = x^T (A^T P + P A) x
+\begin{split} \dot{V}(x) &= \frac{dx^T}{dt} Px + x^T P \frac{dx}{dt} \\\ &= (Ax)^T P x + x^T P Ax = x^T (A^T P + P A) x\end{split}
 $$
 
 If this is equal to $-Q$ for some positive definite matrix, Q, then we have a valid Lyapunov function! This is known as the Lyapunov Equation.
