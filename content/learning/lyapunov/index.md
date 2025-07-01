@@ -100,18 +100,16 @@ $$
 We use the canonical $\omega = \sqrt{k/m}$. We can represent this motion as a linear dynamical system:
 
 $$
-\begin{equation*}
 \frac{ds}{dt} = \begin{bmatrix} 
-0& 1 \\ 
+0& 1 \\\ 
 -\omega^2 & 0
 \end{bmatrix} \begin{bmatrix}
-x \\ 
+x \\\ 
 y
 \end{bmatrix} = \begin{bmatrix}
-y \\ 
+y \\\ 
 - \omega^2 x
 \end{bmatrix} 
-\end{equation*}
 $$
 
 Let’s consider the following Lyapunov function (hey its the total energy of the system!) We scale by mass for simplicity here. 
@@ -128,10 +126,10 @@ How does this function satisfy the necessary conditions for the Lyapunov functio
 
 $$
 \dot{V}(s) = \begin{bmatrix}
- \omega^2 x \\y
+ \omega^2 x \\\ y
  \end{bmatrix} \cdot \begin{bmatrix} 
 y \\
-- \omega^2 x \\
+- \omega^2 x \\\
 \end{bmatrix} = 0
 $$
 
