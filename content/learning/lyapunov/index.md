@@ -27,7 +27,7 @@ image:
   caption: 'Example Energy Landscape and Trajectories'
   focal_point: ''
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
   - admin
@@ -45,7 +45,7 @@ tags:
 
 ### High-Level Summary
 
-Lyapunov functions refer to Lyapunov’s Second Method or the Direct method of studying dynamical systems introduced by Aleksandr Lyapunov in the late 1800s. This method allows us to make statements about the stability of dynamical systems without actually solving the differential equations by introducing a scalar ‘energy function’ known as the Lyapunov function. As long as these functions are defined well and decrease over time, the system is guaranteed to reach a stable state.
+Lyapunov functions refer to Lyapunov's Second Method or Direct Method of studying dynamical systems, introduced by Aleksandr Lyapunov in 1892. This method allows us to make statements about the stability of dynamical systems without explicitly solving the differential equations by introducing a scalar energy-like function known as the Lyapunov function. As long as these functions satisfy certain mathematical conditions and decrease monotonically along system trajectories, we can guarantee that the system will converge to a stable equilibrium. This approach is particularly powerful because it works for both linear and nonlinear systems, providing stability guarantees even when analytical solutions are impossible to obtain.
 
 ### Background
 
@@ -62,9 +62,9 @@ We refer to this as an autonomous dynamical function since the evolution functio
 
 When discussing stability of dynamical systems, we are typically interested in the stability of the system around these equilibrium points. There are typically three classes of dynamic stability we are interested in: 
 
-1) Lyapunov Stability: If we begin near an equilibrium point $s^*$  then we stay *near* $s^*$
+1) Lyapunov Stability: If we begin near an equilibrium point $s^\ast$  then we stay *near* $s^\ast$
 
-2) Asymptotic Stability: If we begin near an equilibrium point $s^*$ then we will converge to $s^*$
+2) Asymptotic Stability: If we begin near an equilibrium point $s^ast$ then we will converge to $s^ast$
 
 3) Exponential Stability: Asymptotic stability with guarantees on the rate of convergence   
 
@@ -100,16 +100,7 @@ $$
 We use the canonical $\omega = \sqrt{k/m}$. We can represent this motion as a linear dynamical system:
 
 $$
-\frac{ds}{dt} = \begin{bmatrix} 
-0& 1 \\\ 
--\omega^2 & 0
-\end{bmatrix} \begin{bmatrix}
-x \\\ 
-y
-\end{bmatrix} = \begin{bmatrix}
-y \\\ 
-- \omega^2 x
-\end{bmatrix} 
+\frac{ds}{dt} = \begin{bmatrix} 0& 1 \\\  -\omega^2 & 0 \end{bmatrix} \begin{bmatrix} x \\\ y \end{bmatrix} = \begin{bmatrix} y \\\ - \omega^2 x\end{bmatrix} 
 $$
 
 Let’s consider the following Lyapunov function (hey its the total energy of the system!) We scale by mass for simplicity here. 
