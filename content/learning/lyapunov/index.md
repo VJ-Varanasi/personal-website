@@ -1,9 +1,9 @@
 ---
 title: Lyapunov Functions
-subtitle: temp
+subtitle: Studying stability in Dynamical Systems
 
 # Summary for listings and search engines
-summary: temp
+summary: Lyapunov functions refer to Lyapunov’s Second Method or the Direct method of studying dynamical systems introduced by Aleksandr Lyapunov in the late 1800s. This method allows us to make statements about the stability of dynamical systems without actually solving the differential equations by introducing a scalar ‘energy function’ known as the Lyapunov function. As long as these functions are defined well and decrease over time, the system is guaranteed to reach a stable state.
 
 # Link this post with a project
 projects: []
@@ -23,8 +23,8 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: ''
+image: 
+  caption: 'Example Energy Landscape and Trajectories'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -64,7 +64,7 @@ When discussing stability of dynamical systems, we are typically interested in t
 
 1) Lyapunov Stability: If we begin near an equilibrium point $s^*$  then we stay *near* $s^*$
 
-2) Asymptotic Stability: If we begin near an equilibrium point $s^*$  then we will converge to $s^*$
+2) Asymptotic Stability: If we begin near an equilibrium point $s^*$ then we will converge to $s^*$
 
 3) Exponential Stability: Asymptotic stability with guarantees on the rate of convergence   
 
@@ -98,7 +98,6 @@ $$
 We use the canonical $\omega = \sqrt{k/m}$. We can represent this motion as a linear dynamical system:
 
 $$
-
 \frac{ds}{dt} = \begin{bmatrix} 
 0& 1 \\ 
 -\omega^2 & 0
@@ -109,7 +108,6 @@ y
 y \\ 
 - \omega^2 x
 \end{bmatrix} 
-
 $$
 
 Let’s consider the following Lyapunov function (hey its the total energy of the system!) We scale by mass for simplicity here. 
@@ -175,7 +173,6 @@ where P represents a positive definite matrix. If we consider the Lyapunov condi
 
 $$
 \dot{V}(x) = \frac{dx^T}{dt} Px + x^T P \frac{dx}{dt} = (Ax)^T P x + x^T P Ax = x^T (A^T P + P A) x
-
 $$
 
 If this is equal to $-Q$ for some positive definite matrix, Q, then we have a valid Lyapunov function! This is known as the Lyapunov Equation.
