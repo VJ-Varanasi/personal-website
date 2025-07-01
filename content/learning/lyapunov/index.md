@@ -121,11 +121,11 @@ $$
 
 Notice that in our undamped system the derivative of the Lyapunov function is 0. This implies that the system is Lyapunov stable, but not asymptotically stable. The physical interpretation of this is that the system does not dissipate energy and continuously oscillates with constant amplitude. If we had a damping term in our equation of motion then we would find that the derivative of the Lyapunov function is strictly negative implying asymptotic stability. Conservative systems are generally Lyapunov stable whereas dissipative systems are generally asymptotically stable! 
 
-We can visualize the trajectories taken. In the case of the Undamped harmonic oscillator we see that the system stays in the energy level set corresponding to its initial trajectory. 
+We can visualize the trajectories taken. In the case of the undamped harmonic oscillator we see that the system stays in the energy level set corresponding to its initial trajectory. 
 
 ![image.png](undamped_harmonic_oscillator.png)
 
-In the damped harmonic oscillator case we can see that the system converges towards the stable equilibrium point at the origin! Notice how this the points move towards the low energy valley much like a ball finding its resting spot in a bowl. 
+In the damped harmonic oscillator case we can see that the system converges towards the stable equilibrium point at the origin! Notice how the trajectory moves towards the low energy valley much like a ball finding its resting spot in a bowl. 
 
 ![image.png](damped_harmonic_oscillator.png)
 
@@ -139,7 +139,7 @@ Notice that the trajectories are unchanged, however, the values of the energy fu
 
 ### Quadratic Form Lyapunov Functions for Linear Dynamical Systems
 
-Now that we understand how beautiful Lyapunov functions are, what’s stopping us from using them everywhere? In short, the more complicated our system gets the harder it is to define appropriate Lyapunov functions. Luckily, there is a beautiful way to write Lyapunov functions for linear dynamical systems. In particular, quadratic forms lend themselves very well to defining Lyapunov functions for linear systems. 
+Now that we understand how beautiful Lyapunov functions are, what’s stopping us from using them everywhere? In short, the more complicated our system gets the harder it is to define appropriate Lyapunov functions. Luckily, there is a neat way to write Lyapunov functions for linear dynamical systems. In particular, quadratic forms lend themselves very well to defining Lyapunov functions for linear systems. 
 
 Consider an arbitrary linear dynamical system given by the following differential equation:
 
