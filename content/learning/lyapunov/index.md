@@ -3,7 +3,7 @@ title: Lyapunov Functions
 subtitle: Studying stability in Dynamical Systems
 
 # Summary for listings and search engines
-summary: Lyapunov functions refer to Lyapunov’s Second Method or the Direct method of studying dynamical systems introduced by Aleksandr Lyapunov in the late 1800s. This method allows us to make statements about the stability of dynamical systems without actually solving the differential equations by introducing a scalar ‘energy function’ known as the Lyapunov function. As long as these functions are defined well and decrease over time, the system is guaranteed to reach a stable state.
+summary: I was recently reading about Energy functions in Hopfield networks and was introduced to the idea of Lyapunov functions. I found them to be pretty neat so I thought I’d write up some of what I learned. I glossed over some of the mathematical rigor in favor of approachability, but if you are interested in learning more I linked some of the resources I looked at while learning about Lyapunov stability. 
 
 # Link this post with a project
 projects: []
@@ -41,7 +41,7 @@ tags:
 
 ---
 
-I was recently reading about Energy functions in Hopfield networks and was introduced to the idea of Lyapunov functions. I found them to be pretty neat so I thought I’d write up some of what I learned. I glossed over some of the mathematical rigor in favor of approachability, but if you are interested in learning more I linked some of the resources I looked at while learning about Lyapunov stability. 
+
 
 ### High-Level Summary
 
@@ -56,7 +56,7 @@ $$
 g: \mathbb{R}^n \rightarrow \mathbb{R}^n
 $$
 
-We refer to this as an autonomous dynamical function since the evolution function, g, is constant with time. The system exists in an n dimensional space and evolves according to the continuously differentiable function g. The system has an equilibrium point at $s^*$ if  $g(s^*) = 0$.  For ease of analysis we consider the case where the equilibrium point is at the origin. In fact, for any equilibrium point there exists a coordinate transformation such that the origin is the equilibrium point. 
+We refer to this as an autonomous dynamical function since the evolution function, g, is constant with time. The system exists in an n dimensional space and evolves according to the continuously differentiable function g. The system has an equilibrium point at $s^*$ if $g(s^*) = 0$.  For ease of analysis we consider the case where the equilibrium point is at the origin. In fact, for any equilibrium point there exists a coordinate transformation such that the origin is the equilibrium point. 
 
 ### Stability of Equilibrium Points
 
@@ -91,13 +91,16 @@ $$
 We define our state space, $s = [x, y]$, with dynamics as follows: 
 
 $$
-\frac{dx}{dt} = y \\
+\frac{dx}{dt} = y
+$$
+$$
 \frac{dy}{dt} = - \frac{k}{m} x = -\omega^2 x
 $$
 
 We use the canonical $\omega = \sqrt{k/m}$. We can represent this motion as a linear dynamical system:
 
 $$
+\begin{equation*}
 \frac{ds}{dt} = \begin{bmatrix} 
 0& 1 \\ 
 -\omega^2 & 0
@@ -108,6 +111,7 @@ y
 y \\ 
 - \omega^2 x
 \end{bmatrix} 
+\end{equation*}
 $$
 
 Let’s consider the following Lyapunov function (hey its the total energy of the system!) We scale by mass for simplicity here. 
