@@ -3,7 +3,7 @@ title: Lyapunov Functions
 subtitle: Studying stability in Dynamical Systems
 
 # Summary for listings and search engines
-summary: I was recently reading about Energy functions in Hopfield networks and was introduced to the idea of Lyapunov functions. I found them to be pretty neat so I thought I’d write up some of what I learned. I glossed over some of the mathematical rigor in favor of approachability, but if you are interested in learning more I linked some of the resources I looked at while learning about Lyapunov stability. 
+summary: I was recently reading about Energy functions in Hopfield networks and was introduced to the idea of Lyapunov functions. I found them to be pretty neat, so I thought I’d write up some of what I learned. I glossed over some of the mathematical rigor in favor of approachability, but if you are interested in learning more, I linked some of the resources I looked at while learning about Lyapunov stability. 
 
 # Link this post with a project
 projects: []
@@ -64,7 +64,7 @@ When discussing stability of dynamical systems, we are typically interested in t
 
 1) Lyapunov Stability: If we begin near an equilibrium point $s^\ast$  then we stay *near* $s^\ast$
 
-2) Asymptotic Stability: If we begin near an equilibrium point $s^ast$ then we will converge to $s^ast$
+2) Asymptotic Stability: If we begin near an equilibrium point $s^\ast$ then we will converge to $s^\ast$
 
 3) Exponential Stability: Asymptotic stability with guarantees on the rate of convergence   
 
