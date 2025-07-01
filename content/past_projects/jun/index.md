@@ -30,5 +30,5 @@ url_video: ''
 # slides: "PHYS 472"
 ---
 
-My work with Prof. Jun Korenaga develops a novel analytical model to explain the emergence of reflexivley autocatalytic and food-generated (RAF) sets in Kauffman networks. This work addresses a well-documented, but previously unexplained phenomena in the field. We show that the sudden probabilistic increase in the likelihood of observing autocatalysis arises from the dispartiy between the number of ways to select k unique molecule-reaction pairs and the number of ways to allocate minimally RAF sets among them.  This perspective on RAF theory offers new insights into the underlying structure
+My work with Prof. Jun Korenaga develops a novel analytical model to explain the emergence of reflexivley autocatalytic and food-generated (RAF) sets in Kauffman networks. This work addresses a well-documented, but previously unexplained phenomena in the field. We show that the sudden probabilistic increase in the likelihood of observing autocatalysis arises from the disparity between the number of ways to select k unique molecule-reaction pairs and the number of ways to allocate minimally RAF sets among them.  This perspective on RAF theory offers new insights into the underlying structure
 of Kauffman networks, particularly emphasizing the importance of catalytic cores.
