@@ -32,7 +32,7 @@ image:
   caption: "Schematic from 'Notes on Koopman Theory'"
   focal_point: ''
   placement: 2
-  preview_only: true
+  preview_only: false
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
