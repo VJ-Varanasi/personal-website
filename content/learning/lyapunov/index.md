@@ -119,7 +119,7 @@ $$
 \dot{V}(s) = \begin{bmatrix}\omega^2 x \\\ y \end{bmatrix} \cdot \begin{bmatrix} y \\ - \omega^2 x \\\ \end{bmatrix} = 0
 $$
 
-Notice that in our undamped system the derivative of the Lyapunov function is 0. This implies that the system is Lyapunov stable, but not asymptotically stable. The physical interpretation of this is that the system does not dissipate energy and continuously oscillates with constant amplitude. If we had a damping term in our equation of motion then we would find that the derivative of the Lyapunov function is strictly negative implying asymptotic stability. Conservative systems are Lyapunov stable whereas dissipative systems are asymptotically stable! 
+Notice that in our undamped system the derivative of the Lyapunov function is 0. This implies that the system is Lyapunov stable, but not asymptotically stable. The physical interpretation of this is that the system does not dissipate energy and continuously oscillates with constant amplitude. If we had a damping term in our equation of motion then we would find that the derivative of the Lyapunov function is strictly negative implying asymptotic stability. Conservative systems are generally Lyapunov stable whereas dissipative systems are generally asymptotically stable! 
 
 We can visualize the trajectories taken. In the case of the Undamped harmonic oscillator we see that the system stays in the energy level set corresponding to its initial trajectory. 
 
