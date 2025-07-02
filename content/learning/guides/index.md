@@ -1,6 +1,6 @@
 ---
 title: Statistics Guides and References
-summary: "Some miscellaneous practical guides and references for model building, data analysis, and machine learning"
+summary: "A practical guide and references for model building, data analysis, and machine learning"
 tags:
   - Data Science
 # date: '2016-04-27T00:00:00Z'
@@ -34,6 +34,6 @@ url_video: ''
 slides: ""
 ---
 
-Below are some miscellaneous guides on regression and model building that I have written for personal and public use. Please feel free to provide any feedback at varun.varanasi@gmail.com. 
+Below is miscellaneous guide on regression and model building that I have written for personal and public use. Please feel free to provide any feedback at varun.varanasi@gmail.com. 
 
-1. {{% staticref "uploads/regression.pdf" "newtab" %}}Practical Guide to Regression and Model Building{{% /staticref %}}
+{{% staticref "uploads/regression.pdf" "newtab" %}}Practical Guide to Regression and Model Building{{% /staticref %}}
