@@ -18,9 +18,9 @@ bio: ""
 
 # Interests to show in About widget
 interests:
-  - Emergent Phenomena
+  - Biological Learning
   - Neural Computation
-  - Biophysics
+  - Biologically-inspired AI
 
 # Education to show in About widget
 education:
