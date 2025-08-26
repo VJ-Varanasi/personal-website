@@ -70,10 +70,19 @@ email: ''
 highlight_name: true
 ---
 
-I recently graduated from Yale University with degrees Physics and Statistics & Data Science. I am broadly interested in emergent phenomena in biological systems with a specific interest in neural computation and biological networks. At the moment, I am working with Prof. Christopher Lynn (Yale) to characterize the functional properties of neural connectome networks. We are particularly interested in motivating the distribution of synaptic strength in these networks. I am also working with Prof. Jun Korenaga (Yale) to understand the emergence and dynamics of autocatalytic reaction networks in Kauffman networks, a pre-biotic chemical model. In the past I have worked with Prof. Gregory Laughlin (Yale) to construct geophysical models of the VIX index as a function of populace fear and uncertainty. I have also worked with Prof. Nicholas Christakis (Yale) to predict COVID-19 infection rates and Prof. Michael Dickey (NC State) to engineer room temperature liquid metal thin films. In addition to my scientific research, I briefly worked with the Yale Policy Lab to evaluate the efficacy of adopting a state infrastructure bank in Connecticut. 
+I recently graduated from Yale University with degrees in Physics and Statistics & Data Science where I studied complex systems in various forms. My current research interests explore emergent phenomena in natural systems with a particular emphasis on biological learning and neural computation. In the past, I've worked on problems in theoretical neuroscience (network resilience of connectomes), origin of life (probabilistic emergence of autocatalysis), and quantitative finance (trading at IMC financial markets). 
+
+If any of this sparks your curiosity or connects to your own work, please reach out at varun.varanasi@gmail.com.
+
+
+
+
+
+
+<!-- At Yale I worked with Prof. Christopher Lynn (Yale) to characterize the functional properties of neural connectome networks. We are particularly interested in motivating the distribution of synaptic strength in these networks. I am also worked with Prof. Jun Korenaga (Yale) to understand the emergence and dynamics of autocatalytic reaction networks in Kauffman networks, a pre-biotic chemical model. In the past I have worked with Prof. Gregory Laughlin (Yale) to construct geophysical models of the VIX index as a function of populace fear and uncertainty. I have also worked with Prof. Nicholas Christakis (Yale) to predict COVID-19 infection rates and Prof. Michael Dickey (NC State) to engineer room temperature liquid metal thin films. In addition to my scientific research, I briefly worked with the Yale Policy Lab to evaluate the efficacy of adopting a state infrastructure bank in Connecticut. 
 
 Outside of research, I am a quantitative trader at IMC Financial Markets, but have experience in strategy & management consulting and data science. In the summer of 2022, I worked at a Benjamin Maurice, a consulting firm specializing in private equity due dilligence, fintech and growth strategy. Before that, I interned at Lantern Pharma, an oncology drug discovery company, and as a volunteer political data analyst through BlueBonnet Data. I am also passionate about education and have experience as a teaching assistant for Yale's S&DS 365/665: Intermediate Machine Learning, S&DS 363/563: Multivariate Statistics for Social Sciences, and S&DS 238/538: Bayesian Statistics and Probability. Outside of the classroom, I danced as part of Yale Jashan Bhangra, one of Yale's Indian dance groups, and enjoy cooking, and reading in my free time.
 
-For more information about my experiences, please check out the past projects section of this website. Feel free to contact me for more information regarding any of my interests or experiences at varun.varanasi@gmail.com.
+For more information about my experiences, please check out the past projects section of this website. Feel free to contact me for more information regarding any of my interests or experiences at varun.varanasi@gmail.com. -->
 
 
