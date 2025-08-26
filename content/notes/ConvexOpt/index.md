@@ -1,6 +1,6 @@
 ---
-title: Information Theory
-summary: "S&DS664: Information Theory (Spring 2024)"
+title: Convex Optimization
+summary: "S&DS631: Optimization and Computation (Fall 2023)"
 tags:
   - Statistics
 date: '2022-06-27T00:00:00Z'
@@ -15,8 +15,8 @@ image:
 links:
   - icon: 
     icon_pack: fab
-    name: Elements of Information Theory
-    url: 'uploads/InfoTheory.pdf'
+    name: Boyd Convex Optimization
+    url: 'uploads/convex_optimization.pdf'
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -30,11 +30,10 @@ url_video: ''
 slides: ""
 ---
 
-These notes follow Prof. Andrew Barron's S&DS664: Information Theory as taught in Spring 2024. The course follows *Elements of Information Theory by Thomas Cover and Joy Thomas*. The notes attached cover the first 7 chapters of the text with notes for future improvement. 
+These notes originated from Yale's S&DS631: Optimization and Computation as taught by Prof. Zhuoran Yang in Fall 2023. The course loosely follows *Convex Optimization by Stephen Boyd* covering convex sets, convex functions, convex optimization and the dual problem. The notes attached cover up to chapter 4 in the Boyd's text.
 
 
-
-{{% staticref "uploads/InfoTheory.pdf" "newtab" %}}LATEX Notes{{% /staticref %}}: LATEX notes from *Elements of Information Theory by Thomas Cover and Joy Thomas*
+{{% staticref "uploads/convex_optimization.pdf" "newtab" %}}LATEX Notes{{% /staticref %}}: LATEX notes from *Convex Optimization by Stephen Boyd*
 
 
 
