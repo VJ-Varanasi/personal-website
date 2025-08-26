@@ -30,7 +30,7 @@ url_video: ''
 slides: ""
 ---
 
-These notes follow Prof. Andrew Barron's S&DS664: Information Theory as taught in Spring 2024. The course follows *Elements of Information Theory by Thomas Cover and Joy Thomas*. The notes attached cover the first 7 chapters of the text with comments for future improvement. 
+These notes follow Prof. Andrew Barron's S&DS664: Information Theory as taught in Spring 2024. The course roughly follows *Elements of Information Theory by Thomas Cover and Joy Thomas*. The notes attached cover the first 7 chapters of the text with comments for future improvement. 
 
 
 
