@@ -2,7 +2,7 @@
 title: Machine Learning
 summary: "S&DS665: Intermediate Machine Learning (Fall 2022)"
 tags:
-  - Inference & Learning
+  - Inference
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

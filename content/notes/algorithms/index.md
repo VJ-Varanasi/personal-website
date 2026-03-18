@@ -2,7 +2,7 @@
 title: Algorithms
 summary: "CPSC365: Algorithms (Spring 2023)"
 tags:
-  - Inference & Learning
+  - Inference
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

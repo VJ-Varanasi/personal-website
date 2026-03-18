@@ -2,7 +2,7 @@
 title: Convex Optimization
 summary: "S&DS631: Optimization and Computation (Fall 2023)"
 tags:
-  - Optimization & Dynamics
+  - Optimization
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
