@@ -11,7 +11,7 @@ weight: 30
 
 title: Publications
 subtitle: ''
-active: true 
+active: false 
 
 content:
   # Filter on criteria
