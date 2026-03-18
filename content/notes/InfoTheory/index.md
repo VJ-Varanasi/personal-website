@@ -2,7 +2,7 @@
 title: Information Theory
 summary: "S&DS664: Information Theory (Spring 2024)"
 tags:
-  - Inference & Learning
+  - Inference
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
