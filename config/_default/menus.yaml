@@ -10,9 +10,9 @@ main:
   - name: Compiled Notes
     url: '#notes'
     weight: 30
-  - name: Past Projects
-    url: '#past_projects'
-    weight: 50
+  # - name: Past Projects
+  #   url: '#past_projects'
+  #   weight: 50
   # - name: What I'm Learning
   #   url: '#learning'
   #   weight: 50
