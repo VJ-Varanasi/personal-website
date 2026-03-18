@@ -8,6 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 85
+active: false
 
 title: Past Projects
 subtitle: "An overview of some of my past work"
