@@ -17,8 +17,8 @@ main:
   #   url: '#learning'
   #   weight: 50
   - name: Publications
-   url: '#publications'
-   weight: 20
+    url: '#publications'
+    weight: 20
   #- name: Contact - Delete
   #  url: '#contact'
   #  weight: 60
