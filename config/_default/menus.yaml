@@ -16,9 +16,9 @@ main:
   # - name: What I'm Learning
   #   url: '#learning'
   #   weight: 50
-  - name: Publications - Delete
-   url: '#featured'
-   weight: 70
+  # - name: Publications - Delete
+  #  url: '#featured'
+  #  weight: 70
   #- name: Contact - Delete
   #  url: '#contact'
   #  weight: 60
