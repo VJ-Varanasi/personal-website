@@ -29,9 +29,9 @@ content:
     - name: Physics
       tag: Physics
     - name: Optimization & Dynamics
-      tag: Optimization
+      tag: Optimization & Dynamics
     - name: Inference & Learning
-      tag: Inference
+      tag: Inference & Learning
     - name: Other
       tag: Misc
     - name: All
