@@ -2,8 +2,7 @@
 title: Complex Systems
 summary: "PHYS428: Complex Systems (Fall 2022)"
 tags:
-  - Physics
-  - Mathematics
+  - Optmization & Dynamics
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

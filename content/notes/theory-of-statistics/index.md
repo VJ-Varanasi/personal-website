@@ -2,7 +2,7 @@
 title: Theory of Statistics
 summary: "S&DS242: Theory of Statistics (Spring 2022)"
 tags:
-  - Statistics
+  - Inference & Learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -2,7 +2,7 @@
 title: Complex Analysis
 summary: 'MATH310: Complex Analysis (Fall 2021)'
 tags:
-  - Mathematics
+  - Misc
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

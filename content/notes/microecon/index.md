@@ -2,7 +2,7 @@
 title: Microeconomics
 summary: "ECON121: Intermediate Microeconomics (Fall 2022)"
 tags:
-  - Economics
+  - Misc
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

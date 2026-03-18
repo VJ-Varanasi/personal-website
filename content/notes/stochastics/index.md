@@ -2,7 +2,7 @@
 title: Stochastic Processes
 summary: "S&DS551: Stochastic Processes (Spring 2024)"
 tags:
-  - Statistics
+  - Optimization & Dynamics
 date: '2022-06-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
