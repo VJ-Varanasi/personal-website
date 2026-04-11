@@ -6,6 +6,7 @@ title: 'Emergence of autocatalysis in prebiotic reaction networks'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Jun Korenaga
 
 # Author notes (optional)
 # author_notes:
@@ -27,14 +28,14 @@ publishDate: '2026-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
+publication: In Physical Review E
 publication_short: In PRE
 
 abstract: |
   This paper presents an analytical model for the emergence of reflexively autocatalytic and food-generated (RAF) sets in Kauffman networks. The sharp transition in the probability of observing RAF sets as a function of catalytic probability is a well-documented but unexplained phenomenon. In this paper, we show that RAF formation proceeds through two regimes: a finite-size regime dominated by the probabilistic occurrence of minimal catalytic cores, and an asymptotic regime modeled by the disparity between the number of ways to select 𝑘 unique molecule-reaction pairs and the number of ways to allocate minimally RAF sets among them. This perspective on RAF theory offers new insights into the governing mechanics of autocatalytic emergence in Kauffman networks, particularly emphasizing the distinction between contributions arising from the underlying network structure and those from the catalytic model. The presented theory is applicable across a range of catalytic schemes, allowing for tractable analysis and a comparison of emergence behavior across a broad class of systems. The analytic description of this theory additionally provides a quantitative measurement of transition sharpness and predicts the scaling behavior of catalytic cores proportional to 𝑛⁢2^(𝑛+1). Although this model advances the understanding of RAF set formation, it relies on the simplifying assumption of nonoverlapping catalytic cores. Future work should incorporate overlap probabilities and information on RAF core size distributions, and refine the restricted partition function to more accurately capture the behavior of RAF emergence.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
