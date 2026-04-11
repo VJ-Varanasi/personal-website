@@ -1,22 +1,21 @@
 ---
-title: 'An example conference paper'
+title: 'Emergence of autocatalysis in prebiotic reaction networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+#date: '2013-07-01T00:00:00Z'
+doi: 'https://doi.org/10.1103/nmt5-qsym'
 
-active: false
+active: True
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -31,7 +30,7 @@ publication_types: ['2']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper presents an analytical model for the emergence of reflexively autocatalytic and food-generated (RAF) sets in Kauffman networks. The sharp transition in the probability of observing RAF sets as a function of catalytic probability is a well-documented but unexplained phenomenon. In this paper, we show that RAF formation proceeds through two regimes: a finite-size regime dominated by the probabilistic occurrence of minimal catalytic cores, and an asymptotic regime modeled by the disparity between the number of ways to select 𝑘 unique molecule-reaction pairs and the number of ways to allocate minimally RAF sets among them. This perspective on RAF theory offers new insights into the governing mechanics of autocatalytic emergence in Kauffman networks, particularly emphasizing the distinction between contributions arising from the underlying network structure and those from the catalytic model. The presented theory is applicable across a range of catalytic schemes, allowing for tractable analysis and a comparison of emergence behavior across a broad class of systems. The analytic description of this theory additionally provides a quantitative measurement of transition sharpness and predicts the scaling behavior of catalytic cores proportional to 𝑛⁢2𝑛+1. Although this model advances the understanding of RAF set formation, it relies on the simplifying assumption of nonoverlapping catalytic cores. Future work should incorporate overlap probabilities and information on RAF core size distributions, and refine the restricted partition function to more accurately capture the behavior of RAF emergence.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
