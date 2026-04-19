@@ -12,11 +12,11 @@ external_link: ''
 #  caption: Stereographic Projection
 #  focal_point: Smart
 
-links:
-  - icon: 
-    icon_pack: fab
-    name: Final Report
-    url: 'uploads/Team_3_report.pdf'
+# links:
+#   - icon: 
+#     icon_pack: fab
+#     name: Final Report
+#     url: 'uploads/Team_3_report.pdf'
 
 url_pdf: ''
 url_slides: ''

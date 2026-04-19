@@ -3,7 +3,7 @@
   "index_dir": "/Users/varunvaranasi/Documents/personal-website/.entropy/indices/0e051a95d1b9d09e",
   "created_at": "2026-04-10T11:38:08.132663",
   "total_files": 68,
-  "total_chunks": 1236,
+  "total_chunks": 1240,
   "indexed_paths": [
     "optimal_control_runner.py",
     "simple_student_teacher_spatial.py",
@@ -95,7 +95,7 @@
     "multishooting.ipynb": 1775779880.5463152,
     "simple_student_teacher_vanilla.py": 1771781205.9305806,
     "speeding_up_opt.ipynb": 1773185507.885171,
-    "Spatial_Dopamine.pdf": 1775834636.8392608,
+    "Spatial_Dopamine.pdf": 1776135402.1661758,
     "validating_meanfield_theory.ipynb": 1773425961.2127845,
     "OC_theory_reader.ipynb": 1772658470.3478122,
     "run_optimal_control.sh": 1772382897.9148023,
