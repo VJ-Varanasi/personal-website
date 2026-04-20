@@ -43,18 +43,18 @@ social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: "mailto:varun.varanasi@gmail.com"
-  - icon: twitter
-   icon_pack: fab
-   link: https://x.com/vjvaranasi
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-   icon_pack: fas
-   link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=W6IrWKcAAAAJ
-  - icon: github
+    - icon: twitter
     icon_pack: fab
-    link: https://github.com/VJ-Varanasi
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/varun-varanasi-3488101b3/
+    link: https://x.com/vjvaranasi
+    - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=W6IrWKcAAAAJ
+    - icon: github
+      icon_pack: fab
+      link: https://github.com/VJ-Varanasi
+    - icon: linkedin
+      icon_pack: fab
+      link: https://www.linkedin.com/in/varun-varanasi-3488101b3/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
